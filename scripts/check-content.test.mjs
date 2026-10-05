@@ -46,7 +46,8 @@ test('reports baseline problems without failing default mode', (context) => {
 test('fails for problems in a newly added page', (context) => {
   const root = fixture();
   context.after(() => rmSync(root, { force: true, recursive: true }));
-  writeFileSync(path.join(root, 'new.md'), '# New\n\n### Skipped level\n\n[Broken](missing.md)\n\n![](missing.png)\n');
+  mkdirSync(path.join(root, 'study'));
+  writeFileSync(path.join(root, 'study', 'new.md'), '# New\n\n### Skipped level\n\n[Broken](missing.md)\n\n![](missing.png)\n');
   const result = check(root);
   assert.equal(result.status, 1, result.stderr);
   assert.match(result.stdout, /metadata-description-missing/);
