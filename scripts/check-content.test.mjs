@@ -77,6 +77,15 @@ test('fails when SUMMARY points to a missing page', (context) => {
   assert.match(result.stdout, /summary-missing/);
 });
 
+test('does not require page metadata for repository governance documents', (context) => {
+  const root = fixture();
+  context.after(() => rmSync(root, { force: true, recursive: true }));
+  writeFileSync(path.join(root, 'CONTRIBUTING.md'), '# Contributing\n\nRepository workflow.\n');
+  const result = check(root);
+  assert.equal(result.status, 0, result.stderr);
+  assert.doesNotMatch(result.stdout, /metadata-description-missing/);
+});
+
 test('ignores Markdown examples in code and recognizes a setext H1', (context) => {
   const root = fixture();
   context.after(() => rmSync(root, { force: true, recursive: true }));

@@ -141,6 +141,12 @@ function resolveBase(rootDirectory, requestedRef) {
   return null;
 }
 
+function requiresPageMetadata(filePath) {
+  return filePath === 'README.md'
+    || ['intro/', 'navigation/', 'study/', 'survival/', 'tail/']
+      .some((prefix) => filePath.startsWith(prefix));
+}
+
 function changedPages(rootDirectory, base, currentSummaryTargets, baselineSummaryTargets) {
   const pages = new Set([...currentSummaryTargets].filter((target) => !baselineSummaryTargets.has(target)));
   const renameMap = new Map();
@@ -155,9 +161,10 @@ function changedPages(rootDirectory, base, currentSummaryTargets, baselineSummar
       const oldPath = normalizeRepositoryPath(firstPath);
       const newPath = normalizeRepositoryPath(secondPath);
       renameMap.set(newPath, oldPath);
-      if (newPath.endsWith('.md')) pages.add(newPath);
-    } else if (kind === 'A' && firstPath?.endsWith('.md')) {
-      pages.add(normalizeRepositoryPath(firstPath));
+      if (requiresPageMetadata(newPath)) pages.add(newPath);
+    } else if (kind === 'A' && firstPath) {
+      const newPath = normalizeRepositoryPath(firstPath);
+      if (requiresPageMetadata(newPath)) pages.add(newPath);
     }
   }
   pages.delete('SUMMARY.md');
@@ -435,11 +442,11 @@ export function run(argv = process.argv.slice(2), rootDirectory = path.resolve(p
     rootDirectory, base, currentSummaryTargets, baselineSummaryTargets,
   );
   if (baselineSnapshot) {
-    for (const filePath of currentSnapshot.paths.filter(isContentMarkdown)) {
+    for (const filePath of currentSnapshot.paths.filter(requiresPageMetadata)) {
       if (!baselineSnapshot.has(filePath) && !renameMap.has(filePath)) metadataPages.add(filePath);
     }
   } else {
-    for (const filePath of currentSnapshot.paths.filter(isContentMarkdown)) metadataPages.add(filePath);
+    for (const filePath of currentSnapshot.paths.filter(requiresPageMetadata)) metadataPages.add(filePath);
   }
 
   const current = inspectSnapshot(currentSnapshot, { ...options, metadataPages });
