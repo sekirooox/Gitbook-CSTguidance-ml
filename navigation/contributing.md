@@ -1,0 +1,19 @@
+# 参与贡献
+
+这份指南会随课程、政策和校园环境变化而过时。欢迎校友、在读同学和其他读者通过公开方式共同维护。
+
+## 你可以做什么
+
+- 报告失效链接、事实错误或过时信息；
+- 为内容补充时间、年级、课程版本等适用背景；
+- 提交新的课程体验或校园生活经验；
+- 改进导航、措辞和可访问性。
+
+## 公开维护入口
+
+- [GitHub Issues](https://github.com/sekirooox/Gitbook-CSTguidance-ml/issues)：适合先讨论问题、建议或较大的改动。
+- [Pull Requests](https://github.com/sekirooox/Gitbook-CSTguidance-ml/pulls)：适合提交已经完成的修正与补充。
+
+提交内容时，请尽量说明信息对应的学年或获取日期，并区分个人体验与可核实事实。请勿公开他人的私人联系方式、成绩或其他敏感信息，也不要提交未经授权的课程材料。
+
+[返回快速导航](quick-navigation.md) · [返回首页](../README.md)
