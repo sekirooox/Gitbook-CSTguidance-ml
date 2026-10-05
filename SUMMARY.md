@@ -38,6 +38,7 @@
   * [线性代数（全英）](study/6.-da-yi-ke-cheng/xian-xing-dai-shu-quan-ying.md)
 * [0x09🤣大二课程](study/7.-da-er-ke-cheng/README.md)
   * [计算机组成原理（全英）](study/7.-da-er-ke-cheng/ji-suan-ji-zu-cheng-yuan-li-quan-ying.md)
+    * [H Sun](study/7.-da-er-ke-cheng/ji-suan-ji-zu-cheng-yuan-li-quan-ying/h-sun/README.md)
   * [数据结构（全英）](study/7.-da-er-ke-cheng/shu-ju-jie-gou-quan-ying.md)
   * [离散数学Ⅱ（全英）](study/7.-da-er-ke-cheng/li-san-shu-xue-ii-quan-ying.md)
   * [大学物理实验（全英）](study/7.-da-er-ke-cheng/da-xue-wu-li-shi-yan-quan-ying.md)
