@@ -1,0 +1,10 @@
+{
+  "name": "gitbook-cstguidance-content-checks",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check:content": "node scripts/check-content.mjs",
+    "check:content:strict": "node scripts/check-content.mjs --strict",
+    "test:content-check": "node --test scripts/check-content.test.mjs"
+  }
+}
