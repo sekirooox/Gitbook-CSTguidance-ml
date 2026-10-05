@@ -82,6 +82,10 @@ test('does not require page metadata for repository governance documents', (cont
   const root = fixture();
   context.after(() => rmSync(root, { force: true, recursive: true }));
   writeFileSync(path.join(root, 'CONTRIBUTING.md'), '# Contributing\n\nRepository workflow.\n');
+  mkdirSync(path.join(root, '.github'));
+  writeFileSync(path.join(root, '.github', 'PULL_REQUEST_TEMPLATE.md'), '## Checklist\n');
+  mkdirSync(path.join(root, '_book'));
+  writeFileSync(path.join(root, '_book', 'generated.md'), 'Generated output without a title.\n');
   const result = check(root);
   assert.equal(result.status, 0, result.stderr);
   assert.doesNotMatch(result.stdout, /metadata-description-missing/);

@@ -8,7 +8,7 @@ import { fileURLToPath } from 'node:url';
 
 const IMAGE_EXTENSIONS = new Set(['.avif', '.gif', '.jpeg', '.jpg', '.png', '.svg', '.webp']);
 const DEFAULT_MAX_IMAGE_BYTES = 1024 * 1024;
-const TOOLING_DIRECTORIES = new Set(['.git', 'node_modules', 'scripts']);
+const TOOLING_DIRECTORIES = new Set(['.git', '_book', 'node_modules', 'scripts']);
 
 function usage() {
   console.log(`Usage: node scripts/check-content.mjs [options]
@@ -172,7 +172,10 @@ function changedPages(rootDirectory, base, currentSummaryTargets, baselineSummar
 }
 
 function isContentMarkdown(filePath) {
-  return filePath.endsWith('.md') && filePath !== 'SUMMARY.md' && !filePath.startsWith('scripts/');
+  return filePath.endsWith('.md')
+    && filePath !== 'SUMMARY.md'
+    && !filePath.startsWith('.github/')
+    && !filePath.startsWith('scripts/');
 }
 
 function lineNumberAt(text, offset) {
