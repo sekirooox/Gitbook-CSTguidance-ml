@@ -27,7 +27,7 @@ coverY: 0
 ## 常见任务入口
 
 - **刚收到录取通知或准备报到：** [新生入门](navigation/new-students.md)
-- **查找学习建议、培养阶段或课程评价：** [学业与课程](navigation/academics-and-courses.md)
+- **查找学习建议、培养阶段或课程评价：** [学业与课程](navigation/academics-and-courses.md) · [课程总览](study/course-overview.md)
 - **了解军训、社团、饮食与日常事项：** [校园生活](navigation/campus-life.md)
 - **思考科研、就业、升学与长期方向：** [发展与成长](navigation/development-and-growth.md)
 - **阅读不按年级划分的个人经验：** [经验专题](navigation/experience-topics.md)
@@ -36,7 +36,7 @@ coverY: 0
 ## 按阶段阅读
 
 - **入学前：** [认识专业](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/xian-lai-le-jie-yi-xia-zi-ji-de-zhuan-ye-ba.md) → [软件准备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ruan-jian-she-bei.md) → [硬件准备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ying-jian-she-bei.md)
-- **大一：** [军训与新训](survival/2.-jun-xun-xin-xun-xiang-guan/README.md) → [大一课程](study/6.-da-yi-ke-cheng/README.md) → [校园日常](survival/4.-ri-chang-sheng-huo-xiang-guan/README.md)
+- **大一：** [军训与新训](survival/2.-jun-xun-xin-xun-xiang-guan/README.md) → [课程总览](study/course-overview.md) → [大一课程](study/6.-da-yi-ke-cheng/README.md) → [校园日常](survival/4.-ri-chang-sheng-huo-xiang-guan/README.md)
 - **大二：** [大二课程](study/7.-da-er-ke-cheng/README.md) → [出路方向简述](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/chu-lu-fang-xiang-jian-shu.md)
 - **大三：** [大三课程](study/8.-da-san-ke-cheng/README.md) → [发展与成长](navigation/development-and-growth.md)
 - **大四：** [大四课程](study/9.-da-si-ke-cheng/README.md) → [经验专题](navigation/experience-topics.md)

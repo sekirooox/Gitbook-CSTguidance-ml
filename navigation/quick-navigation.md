@@ -21,7 +21,7 @@ description: 按主题、年级和常见任务快速查找指南内容
 | 主题 | 适合查找的内容 |
 | --- | --- |
 | [新生入门](new-students.md) | 专业认识、入学准备、军训与新训 |
-| [学业与课程](academics-and-courses.md) | 学习方法、各年级课程、通识选修 |
+| [学业与课程](academics-and-courses.md) | 学习方法、课程总览、各年级课程、通识选修 |
 | [校园生活](campus-life.md) | 社团、饮食、消费与日常事项 |
 | [发展与成长](development-and-growth.md) | 科研、就业、升学与方向选择 |
 | [经验专题](experience-topics.md) | 跨阶段的个人经验与回顾 |
@@ -29,6 +29,7 @@ description: 按主题、年级和常见任务快速查找指南内容
 
 ## 按年级查课程
 
+- [课程总览：按年级、性质、主题和特征查找](../study/course-overview.md)
 - [大一课程](../study/6.-da-yi-ke-cheng/README.md)
 - [大二课程](../study/7.-da-er-ke-cheng/README.md)
 - [大三课程](../study/8.-da-san-ke-cheng/README.md)

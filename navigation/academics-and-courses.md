@@ -19,6 +19,7 @@ description: 按年级查找 JNU CST 课程体验与学习建议
 ## 先读
 
 - [学习相关](../study/5.-xue-xi-xiang-guan.md)：大学学习、全英教学与绩点等基础话题。
+- [课程总览](../study/course-overview.md)：按年级、性质、主题和特征交叉查找已有课程经验。
 - [专业导引](../intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/README.md)：建立专业学习的整体认识。
 
 ## 按年级进入课程

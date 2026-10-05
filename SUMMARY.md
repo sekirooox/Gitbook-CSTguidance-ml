@@ -13,13 +13,14 @@
   * [专业所需的软件设备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ruan-jian-she-bei.md)
   * [专业所需的硬件设备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ying-jian-she-bei.md)
 * [军训与新训](survival/2.-jun-xun-xin-xun-xiang-guan/README.md)
-  * [军训与新训内容](survival/2.-jun-xun-xin-xun-xiang-guan/jun-xun-xin-xun-nei-rong.md)
+  * [军训与新训：历史经历与准备](survival/2.-jun-xun-xin-xun-xiang-guan/jun-xun-xin-xun-nei-rong.md)
   * [参训之外的事情](survival/2.-jun-xun-xin-xun-xiang-guan/can-xun-zhi-wai-de-shi-qing.md)
 
 ## 学业与课程
 
 * [学业与课程](navigation/academics-and-courses.md)
 * [学习相关](study/5.-xue-xi-xiang-guan.md)
+* [课程总览](study/course-overview.md)
 * [大一课程](study/6.-da-yi-ke-cheng/README.md)
   * [英语听说Ⅰ](study/6.-da-yi-ke-cheng/ying-yu-ting-shuo.md)
   * [中国近现代史纲要](study/6.-da-yi-ke-cheng/zhong-guo-jin-xian-dai-shi-gang-yao.md)
@@ -75,7 +76,7 @@
 * [日常生活](survival/4.-ri-chang-sheng-huo-xiang-guan/README.md)
   * [浅谈吃饭事务](survival/4.-ri-chang-sheng-huo-xiang-guan/qian-tan-chi-fan-shi-wu.md)
   * [关于非正餐消费](survival/4.-ri-chang-sheng-huo-xiang-guan/guan-yu-fei-zheng-can-xiao-fei.md)
-  * [杂项](survival/4.-ri-chang-sheng-huo-xiang-guan/za-xiang-qiang-tiao.md)
+  * [校园生活零散提醒](survival/4.-ri-chang-sheng-huo-xiang-guan/za-xiang-qiang-tiao.md)
 
 ## 发展与成长
 
