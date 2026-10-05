@@ -1,27 +1,28 @@
 # 目录
 
-## 开始阅读
+## 😚 INTRO
 
-* [首页](README.md)
-* [快速导航](navigation/quick-navigation.md)
+* [0x00🐭\~/JNU/IS/CST/指南](README.md)
+* [0x0d🧭导航总览](navigation/README.md)
+  * [0x14🧭快速导航](navigation/quick-navigation.md)
 
 ## 新生入门
 
-* [新生入门](navigation/new-students.md)
-* [专业导引](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/README.md)
+* [0x15🎓新生入门](navigation/new-students.md)
+* [0x01🤔专业导引](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/README.md)
   * [先来了解一下自己的专业](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/xian-lai-le-jie-yi-xia-zi-ji-de-zhuan-ye-ba.md)
   * [专业所需的软件设备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ruan-jian-she-bei.md)
   * [专业所需的硬件设备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ying-jian-she-bei.md)
-* [军训与新训](survival/2.-jun-xun-xin-xun-xiang-guan/README.md)
-  * [军训与新训：历史经历与准备](survival/2.-jun-xun-xin-xun-xiang-guan/jun-xun-xin-xun-nei-rong.md)
+* [0x02🥵军训/新训相关](survival/2.-jun-xun-xin-xun-xiang-guan/README.md)
+  * [军训/新训内容](survival/2.-jun-xun-xin-xun-xiang-guan/jun-xun-xin-xun-nei-rong.md)
   * [参训之外的事情](survival/2.-jun-xun-xin-xun-xiang-guan/can-xun-zhi-wai-de-shi-qing.md)
 
-## 学业与课程
+## 🤏 STUDY
 
-* [学业与课程](navigation/academics-and-courses.md)
-* [学习相关](study/5.-xue-xi-xiang-guan.md)
-* [课程总览](study/course-overview.md)
-* [大一课程](study/6.-da-yi-ke-cheng/README.md)
+* [0x0e📚学业与课程](navigation/academics-and-courses.md)
+* [0x05🧐学习相关](study/5.-xue-xi-xiang-guan.md)
+* [0x0f🗂️课程总览](study/course-overview.md)
+* [0x06😋大一课程](study/6.-da-yi-ke-cheng/README.md)
   * [英语听说Ⅰ](study/6.-da-yi-ke-cheng/ying-yu-ting-shuo.md)
   * [中国近现代史纲要](study/6.-da-yi-ke-cheng/zhong-guo-jin-xian-dai-shi-gang-yao.md)
   * [大学语文](study/6.-da-yi-ke-cheng/da-xue-yu-wen.md)
@@ -35,7 +36,7 @@
   * [思想道德与法治](study/6.-da-yi-ke-cheng/si-xiang-dao-de-yu-fa-zhi.md)
   * [离散数学Ⅰ（全英）](study/6.-da-yi-ke-cheng/li-san-shu-xue-quan-ying.md)
   * [线性代数（全英）](study/6.-da-yi-ke-cheng/xian-xing-dai-shu-quan-ying.md)
-* [大二课程](study/7.-da-er-ke-cheng/README.md)
+* [0x07🤣大二课程](study/7.-da-er-ke-cheng/README.md)
   * [计算机组成原理（全英）](study/7.-da-er-ke-cheng/ji-suan-ji-zu-cheng-yuan-li-quan-ying.md)
   * [数据结构（全英）](study/7.-da-er-ke-cheng/shu-ju-jie-gou-quan-ying.md)
   * [离散数学Ⅱ（全英）](study/7.-da-er-ke-cheng/li-san-shu-xue-ii-quan-ying.md)
@@ -47,7 +48,7 @@
   * [软件工程（全英）](study/7.-da-er-ke-cheng/ruan-jian-gong-cheng-quan-ying.md)
   * [算法设计与分析（全英）](study/7.-da-er-ke-cheng/suan-fa-she-ji-yu-fen-xi-quan-ying.md)
   * [概率统计（全英）](study/7.-da-er-ke-cheng/gai-shuai-tong-ji-quan-ying.md)
-* [大三课程](study/8.-da-san-ke-cheng/README.md)
+* [0x08😱大三课程](study/8.-da-san-ke-cheng/README.md)
   * [机器学习（全英）](study/8.-da-san-ke-cheng/ji-qi-xue-xi-quan-ying.md)
   * [计算机网络（全英）](study/8.-da-san-ke-cheng/ji-suan-ji-wang-luo-quan-ying.md)
   * [数字图像处理（全英）](study/8.-da-san-ke-cheng/shu-zi-tu-xiang-chu-li-quan-ying.md)
@@ -61,34 +62,34 @@
   * [信息安全与管理（全英）](study/8.-da-san-ke-cheng/xin-xi-an-quan-yu-guan-li-quan-ying.md)
   * [软件工程中的形式化方法（全英）](study/8.-da-san-ke-cheng/ruan-jian-gong-cheng-zhong-de-xing-shi-hua-fang-fa-quan-ying.md)
   * [信息检索（全英）](study/8.-da-san-ke-cheng/xin-xi-jian-suo-quan-ying.md)
-* [大四课程](study/9.-da-si-ke-cheng/README.md)
+* [0x09😭大四课程](study/9.-da-si-ke-cheng/README.md)
   * [面向对象方法学（全英）](study/9.-da-si-ke-cheng/mian-xiang-dui-xiang-fang-fa-xue-quan-ying.md)
   * [编译构建（全英）](study/9.-da-si-ke-cheng/bian-yi-gou-jian-quan-ying.md)
   * [计算机视觉（全英）](study/9.-da-si-ke-cheng/ji-suan-ji-shi-jue-quan-ying.md)
   * [教育数据挖掘与分析（全英）](study/9.-da-si-ke-cheng/jiao-yu-shu-ju-wa-jue-yu-fen-xi-quan-ying.md)
   * [计算机体系结构（全英）](study/9.-da-si-ke-cheng/ji-suan-ji-ti-xi-jie-gou-quan-ying.md)
-* [通识教育选修课](study/0x0a-tong-shi-jiao-yu-xuan-xiu-ke.md)
+* [0x0a🐀通识教育选修课](study/0x0a-tong-shi-jiao-yu-xuan-xiu-ke.md)
 
-## 校园生活
+## 😇 SURVIVAL
 
-* [校园生活](navigation/campus-life.md)
-* [社团与组织](survival/3.-she-tuan-zu-zhi-xiang-guan.md)
-* [日常生活](survival/4.-ri-chang-sheng-huo-xiang-guan/README.md)
+* [0x10🏫校园生活](navigation/campus-life.md)
+* [0x03🥳社团/组织相关](survival/3.-she-tuan-zu-zhi-xiang-guan.md)
+* [0x04🤑日常生活相关](survival/4.-ri-chang-sheng-huo-xiang-guan/README.md)
   * [浅谈吃饭事务](survival/4.-ri-chang-sheng-huo-xiang-guan/qian-tan-chi-fan-shi-wu.md)
   * [关于非正餐消费](survival/4.-ri-chang-sheng-huo-xiang-guan/guan-yu-fei-zheng-can-xiao-fei.md)
   * [校园生活零散提醒](survival/4.-ri-chang-sheng-huo-xiang-guan/za-xiang-qiang-tiao.md)
 
-## 发展与成长
+## 🚀 GROWTH
 
-* [发展与成长](navigation/development-and-growth.md)
+* [0x11🚀发展与成长](navigation/development-and-growth.md)
 * [出路方向简述](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/chu-lu-fang-xiang-jian-shu.md)
 
-## 经验专题
+## 👍 TAIL
 
-* [经验专题](navigation/experience-topics.md)
-* [恋爱相关](tail/6.-lian-ai-xiang-guan.md)
-* [尾巴：本科阶段回顾](tail/7.-wei-ba.md)
+* [0x12💡经验专题](navigation/experience-topics.md)
+* [0x0b💔恋爱相关](tail/6.-lian-ai-xiang-guan.md)
+* [0x0c🎁尾巴](tail/7.-wei-ba.md)
 
 ## 参与贡献
 
-* [参与贡献](navigation/contributing.md)
+* [0x13🤝参与贡献](navigation/contributing.md)
