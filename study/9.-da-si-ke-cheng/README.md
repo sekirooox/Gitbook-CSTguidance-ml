@@ -53,5 +53,6 @@ description: 大四课程入口与原作者的阶段性学习思考
 
 ## 相关页面
 
+- [课程总览](../course-overview.md)
 - [学习相关](../5.-xue-xi-xiang-guan.md)
 - [专业所需的软件设备](../../intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ruan-jian-she-bei.md)
