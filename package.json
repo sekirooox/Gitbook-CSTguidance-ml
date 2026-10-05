@@ -1,0 +1,13 @@
+{
+  "name": "gitbook-cstguidance-ml",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local preview and static build tooling for the JNU-CST GitBook guide.",
+  "scripts": {
+    "dev": "honkit serve . _book",
+    "build": "honkit build . _book"
+  },
+  "devDependencies": {
+    "honkit": "^6.2.2"
+  }
+}
