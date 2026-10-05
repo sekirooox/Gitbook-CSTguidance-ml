@@ -4,7 +4,7 @@ cover: .gitbook/assets/elliott-engelmann-30045.jpg
 coverY: 0
 ---
 
-# JNU CST 指南
+# 0x00🐭\~/JNU/IS/CST/指南
 
 ## 用途说明
 

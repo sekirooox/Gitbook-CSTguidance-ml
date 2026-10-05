@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/lance-asper-Ny0C6Iwou40-unsplash.jpg
 coverY: 63
 ---
 
-# 0x02🥵军训/新训相关
+# 0x04🥵军训/新训相关
 
 > **内容性质：** 个人经验导读
 >
