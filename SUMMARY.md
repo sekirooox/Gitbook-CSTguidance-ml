@@ -171,29 +171,39 @@
   * [计算机体系结构（全英）](study/9.-da-si-ke-cheng/ji-suan-ji-ti-xi-jie-gou-quan-ying.md)
     * [课程教学团队](study/9.-da-si-ke-cheng/ji-suan-ji-ti-xi-jie-gou-quan-ying/teaching-team/README.md)
       * [H3Art-q 的课程评价](study/9.-da-si-ke-cheng/ji-suan-ji-ti-xi-jie-gou-quan-ying/teaching-team/h3art-q.md)
-* [0x0C🐀通识教育选修课](study/0x0a-tong-shi-jiao-yu-xuan-xiu-ke.md)
+* [0x0C 专业选修](study/10.-zhuan-ye-xuan-xiu/README.md)
+  * [人工智能（全英）](study/10.-zhuan-ye-xuan-xiu/ren-gong-zhi-neng.md)
+    * [Z.H Jiang](study/10.-zhuan-ye-xuan-xiu/ren-gong-zhi-neng/z-h-jiang/README.md)
+      * [MayL 的课程评价](study/10.-zhuan-ye-xuan-xiu/ren-gong-zhi-neng/z-h-jiang/MayL.md)
+  * [高阶人工智能（全英）](study/10.-zhuan-ye-xuan-xiu/gao-jie-ren-gong-zhi-neng.md)
+    * [K Wang](study/10.-zhuan-ye-xuan-xiu/gao-jie-ren-gong-zhi-neng/k-wang/README.md)
+      * [MayL 的课程评价](study/10.-zhuan-ye-xuan-xiu/gao-jie-ren-gong-zhi-neng/k-wang/MayL.md)
+  * [计算机文献选读（全英）](study/10.-zhuan-ye-xuan-xiu/ji-suan-ji-wen-xian-xuan-du.md)
+    * [R Xu](study/10.-zhuan-ye-xuan-xiu/ji-suan-ji-wen-xian-xuan-du/r-xu/README.md)
+      * [MayL 的课程评价](study/10.-zhuan-ye-xuan-xiu/ji-suan-ji-wen-xian-xuan-du/r-xu/MayL.md)
+* [0x0D🐀通识教育选修课](study/0x0a-tong-shi-jiao-yu-xuan-xiu-ke.md)
 
 ## 😇 SURVIVAL
 
-* [0x0D🏫校园生活](navigation/campus-life.md)
-* [0x0E🥳社团/组织相关](survival/3.-she-tuan-zu-zhi-xiang-guan.md)
-* [0x0F🤑日常生活相关](survival/4.-ri-chang-sheng-huo-xiang-guan/README.md)
+* [0x0E🏫校园生活](navigation/campus-life.md)
+* [0x0F🥳社团/组织相关](survival/3.-she-tuan-zu-zhi-xiang-guan.md)
+* [0x10🤑日常生活相关](survival/4.-ri-chang-sheng-huo-xiang-guan/README.md)
   * [浅谈吃饭事务](survival/4.-ri-chang-sheng-huo-xiang-guan/qian-tan-chi-fan-shi-wu.md)
   * [关于非正餐消费](survival/4.-ri-chang-sheng-huo-xiang-guan/guan-yu-fei-zheng-can-xiao-fei.md)
   * [校园生活零散提醒](survival/4.-ri-chang-sheng-huo-xiang-guan/za-xiang-qiang-tiao.md)
 
 ## 🚀 GROWTH
 
-* [0x10🚀发展与成长](navigation/development-and-growth.md)
-* [0x11🛤️出路方向简述](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/chu-lu-fang-xiang-jian-shu.md)
+* [0x11🚀发展与成长](navigation/development-and-growth.md)
+* [0x12🛤️出路方向简述](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/chu-lu-fang-xiang-jian-shu.md)
 
 ## 👍 TAIL
 
 
-* [0x12💡经验专题](navigation/experience-topics.md)
-* [0x13💔恋爱相关](tail/6.-lian-ai-xiang-guan.md)
-* [0x14🎁尾巴](tail/7.-wei-ba.md)
+* [0x13💡经验专题](navigation/experience-topics.md)
+* [0x14💔恋爱相关](tail/6.-lian-ai-xiang-guan.md)
+* [0x15🎁尾巴](tail/7.-wei-ba.md)
 
 ## 参与贡献
 
-* [0x15🤝参与贡献](navigation/contributing.md)
+* [0x16🤝参与贡献](navigation/contributing.md)
