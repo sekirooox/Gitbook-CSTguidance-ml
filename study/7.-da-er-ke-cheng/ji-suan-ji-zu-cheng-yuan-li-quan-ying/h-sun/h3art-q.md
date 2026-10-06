@@ -37,7 +37,7 @@ description: H3Art-q 对 H Sun 讲授计算机组成原理课程的个人评价
 
 这门课程可以看作计算机系统方向的入门课，也在一定程度上延续了计算机导论的内容。课程使用 *Computer Systems: A Programmer's Perspective*（CS:APP）作为教材，以 Computer Organization 为教学导向，H3Art-q 修读时覆盖第 1–6 章及第 9–11 章。
 
-![CSAPP 教材封面](../../../../.gitbook/assets/CSAPP.png)
+<figure><img src="../../../../.gitbook/assets/CSAPP.png" alt="CSAPP 教材封面"><figcaption></figcaption></figure>
 
 H3Art-q 认为 CS:APP 在内容、评价和配套练习方面都很优秀，既能用作计算机导论材料，也适合作为计算机组成原理课程的教材。
 
@@ -45,7 +45,7 @@ H3Art-q 认为 CS:APP 在内容、评价和配套练习方面都很优秀，既�
 
 H Sun 已有多年讲授该课程的经验。当学生表现出困惑时，教师会尝试使用中文再次解释。
 
-![课程相关配图](../../../../.gitbook/assets/haoji.png)
+<figure><img src="../../../../.gitbook/assets/haoji.png" alt="课程相关配图"><figcaption></figcaption></figure>
 
 
 ### 推荐资源
