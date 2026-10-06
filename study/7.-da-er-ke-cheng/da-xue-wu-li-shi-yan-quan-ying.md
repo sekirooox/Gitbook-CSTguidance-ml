@@ -1,10 +1,8 @@
 ---
-description: 大学物理实验（全英）的课程信息、学习内容与授课教师索引
+description: 汇总 W Zhang 讲授《大学物理实验（全英）》期间的教学记录与贡献者评价
 ---
 
 # 大学物理实验（全英）
-
-> 本页的课程信息可能随培养方案调整，请以适用于本人年级的培养方案和当期课程通知为准。
 
 ## 课程信息
 
@@ -17,34 +15,16 @@ description: 大学物理实验（全英）的课程信息、学习内容与授�
 
 ## 课程简介
 
-以物理实验、数据处理和实验报告为核心的实践课程，强调规范记录、结果分析与误差讨论。
-
-## 主要内容
-
-- 物理实验基本操作
-- 不确定度与误差分析
-- 实验数据拟合和报告撰写
+通过物理实验训练测量、数据处理、误差分析和实验报告写作能力。
 
 ## 授课教师
 
 ### W Zhang
 
-课程需要持续准备实验报告框架、完成实验并处理数据，时间投入相对稳定。原修读学期的期末考核为三人小组完成指定实验、报告和过程录制，第一节课的报告规范尤其值得记录。
-
 [查看 W Zhang 的教学记录与贡献者评价 →](da-xue-wu-li-shi-yan-quan-ying/w-zhang/README.md)
-
-## 通用学习建议
-
-课前完成报告框架，实验后及时处理数据并补充误差分析。绘图软件须以当期要求为准。
-
-## 资料与来源
-
-- [LabPlot](https://labplot.kde.org/) — macOS 等平台可参考的数据拟合工具。
 
 ## 贡献者致谢
 
 | 贡献者 | 贡献内容 |
 | --- | --- |
-| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 W Zhang 教师条目的原始课程记录与个人评价。 |
-
-> **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 W Zhang 条目的原始课程记录与个人评价。 |

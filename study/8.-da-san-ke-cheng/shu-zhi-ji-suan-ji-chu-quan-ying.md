@@ -1,10 +1,8 @@
 ---
-description: 介绍数值计算基础课程的基本信息、主要内容、授课教师与通用学习建议
+description: 汇总 L.D Fang 讲授《数值计算基础（全英）》期间的教学记录与贡献者评价
 ---
 
 # 数值计算基础（全英）
-
-> 本页的课程信息可能随培养方案调整，请以适用于本人年级的培养方案和当期课程通知为准。
 
 ## 课程信息
 
@@ -17,35 +15,17 @@ description: 介绍数值计算基础课程的基本信息、主要内容、授�
 
 ## 课程简介
 
-课程介绍常用数值计算方法及其误差、稳定性与实现，并可通过配套实验加深对算法的理解。
-
-## 主要内容
-
-- 数值误差与线性方程组求解；
-- 插值、拟合与数值积分；
-- 数值算法实现与实验；
+学习插值、数值积分与方程求解等方法，理解误差和算法稳定性。
 
 ## 授课教师
 
 ### L.D Fang
 
-现有记录整理了 L.D Fang 讲授本课程时的教学安排和 H3Art-q 的修读体验。具体安排可能随学期变化。
-
 [查看 L.D Fang 的教学记录与贡献者评价 →](shu-zhi-ji-suan-ji-chu-quan-ying/l-d-fang/README.md)
 
-## 通用学习建议
-
-- 先根据当期教学大纲确认课程范围、考核方式和提交要求；
-- 将课堂材料与教材、可靠的公开资料结合使用，优先理解基本概念和方法；
-- 对课程项目和报告尽早规划，使用外部工具或生成式 AI 时应遵守课程政策并核验结果。
-
-## 资料与来源
-
-- 本页暂缺可公开核验的课程大纲；具体教材、课件和任务要求请以当期课程通知为准。
-
 ## 贡献者致谢
+
 | 贡献者 | 贡献内容 |
 | --- | --- |
-| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 L.D Fang 教师条目的原始课程记录与个人评价。 |
-
-> **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 L.D Fang 条目的原始课程记录与个人评价。 |
+| [![sekirooox 的 GitHub 头像](https://github.com/sekirooox.png?size=80)](https://github.com/sekirooox/Gitbook-CSTguidance-ml) | 感谢 [sekirooox](https://github.com/sekirooox) 提供 L.D Fang 条目的原始课程记录与个人评价。 |

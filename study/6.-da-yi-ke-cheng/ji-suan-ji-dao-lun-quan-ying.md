@@ -1,10 +1,8 @@
 ---
-description: 大一上唯一一门计算机专业独有的专业课，授课教师为Z.J Wu
+description: 汇总 Z.J Wu、S Long 讲授《计算机导论(全英)》期间的教学记录与贡献者评价
 ---
 
 # 计算机导论(全英)
-
-> 本页的课程信息可能随培养方案调整，请以适用于本人年级的培养方案和当期课程通知为准。
 
 ## 课程信息
 
@@ -17,32 +15,21 @@ description: 大一上唯一一门计算机专业独有的专业课，授课教�
 
 ## 课程简介
 
-大一上唯一一门计算机专业独有的专业课，授课教师为Z.J Wu
-
-## 主要内容
-
-- 课程基础知识与核心概念；
-- 课程安排规定的练习、作业或实践内容；
-- 与后续课程或实际应用相关的拓展内容。
+概览计算机系统、编程语言、网络与学科方向，建立专业学习的整体认识。
 
 ## 授课教师
-### Z.J Wu
 
-现有资料记录了该教师（或教学团队）的课程安排与 H3Art-q 的学习体验；具体安排以当期通知为准。
+### Z.J Wu
 
 [查看 Z.J Wu 的教学记录与贡献者评价 →](ji-suan-ji-dao-lun-quan-ying/z-j-wu/README.md)
 
-## 通用学习建议
+### S Long
 
-请根据当期课程安排制定学习计划，并及时完成课程任务。
-
-## 资料与来源
-
-- 本页暂缺可公开核验的课程大纲；具体教材、课件和任务要求请以当期课程通知为准。
+[查看 S Long 的教学记录与贡献者评价 →](ji-suan-ji-dao-lun-quan-ying/s-long/README.md)
 
 ## 贡献者致谢
+
 | 贡献者 | 贡献内容 |
 | --- | --- |
-| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 Z.J Wu 条目的原始课程记录与个人评价。 |
-
-> **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 Z.J Wu 条目的原始课程记录与个人评价。 |
+| [![sekirooox 的 GitHub 头像](https://github.com/sekirooox.png?size=80)](https://github.com/sekirooox/Gitbook-CSTguidance-ml) | 感谢 [sekirooox](https://github.com/sekirooox) 提供 S Long 条目的原始课程记录与个人评价。 |

@@ -1,10 +1,8 @@
 ---
-description: 概率统计（全英）的课程信息、学习内容与授课教师索引
+description: 汇总 Z.Y He 讲授《概率统计（全英）》期间的教学记录与贡献者评价
 ---
 
 # 概率统计（全英）
-
-> 本页的课程信息可能随培养方案调整，请以适用于本人年级的培养方案和当期课程通知为准。
 
 ## 课程信息
 
@@ -17,33 +15,17 @@ description: 概率统计（全英）的课程信息、学习内容与授课教�
 
 ## 课程简介
 
-面向计算机专业的概率论与统计基础课，侧重常见模型、计算方法和实际应用。
-
-## 主要内容
-
-- 概率基本概念与随机变量
-- 常见概率分布
-- 统计推断与应用计算
+学习概率模型、随机变量与统计推断，为数据分析和机器学习奠基。
 
 ## 授课教师
 
 ### Z.Y He
 
-课程重应用、轻证明，知识难度总体适中，但几乎每节课都有作业，并安排两次阶段测验。复习应系统覆盖 PPT 和课本例题，参加考试前确认计算器要求。
-
 [查看 Z.Y He 的教学记录与贡献者评价 →](gai-shuai-tong-ji-quan-ying/z-y-he/README.md)
 
-## 通用学习建议
-
-认真完成并复盘每次作业，系统复习 PPT 和课本例题；考试前确认允许携带的计算器型号。
-
-## 资料与来源
-
-- 本页暂缺可公开核验的课程大纲；具体教材、课件和任务要求请以当期课程通知为准。
-
 ## 贡献者致谢
+
 | 贡献者 | 贡献内容 |
 | --- | --- |
-| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 Z.Y He 教师条目的原始课程记录与个人评价。 |
-
-> **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 Z.Y He 条目的原始课程记录与个人评价。 |
+| [![sekirooox 的 GitHub 头像](https://github.com/sekirooox.png?size=80)](https://github.com/sekirooox/Gitbook-CSTguidance-ml) | 感谢 [sekirooox](https://github.com/sekirooox) 提供 Z.Y He 条目的原始课程记录与个人评价。 |

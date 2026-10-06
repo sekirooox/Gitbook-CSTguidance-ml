@@ -131,6 +131,7 @@
   * [数值计算基础（全英）](study/8.-da-san-ke-cheng/shu-zhi-ji-suan-ji-chu-quan-ying.md)
     * [L.D Fang](study/8.-da-san-ke-cheng/shu-zhi-ji-suan-ji-chu-quan-ying/l-d-fang/README.md)
       * [H3Art-q 的课程评价](study/8.-da-san-ke-cheng/shu-zhi-ji-suan-ji-chu-quan-ying/l-d-fang/h3art-q.md)
+      * [MayL 的课程评价](study/8.-da-san-ke-cheng/shu-zhi-ji-suan-ji-chu-quan-ying/l-d-fang/MayL.md)
   * [密码算法与协议（全英）](study/8.-da-san-ke-cheng/mi-ma-suan-fa-yu-xie-yi-quan-ying.md)
     * [X.J Huang](study/8.-da-san-ke-cheng/mi-ma-suan-fa-yu-xie-yi-quan-ying/x-j-huang/README.md)
       * [H3Art-q 的课程评价](study/8.-da-san-ke-cheng/mi-ma-suan-fa-yu-xie-yi-quan-ying/x-j-huang/h3art-q.md)

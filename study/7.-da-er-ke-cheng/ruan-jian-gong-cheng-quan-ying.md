@@ -1,10 +1,8 @@
 ---
-description: 软件工程（全英）的课程信息、学习内容与授课教师索引
+description: 汇总 M.X He 讲授《软件工程（全英）》期间的教学记录与贡献者评价
 ---
 
 # 软件工程（全英）
-
-> 本页的课程信息可能随培养方案调整，请以适用于本人年级的培养方案和当期课程通知为准。
 
 ## 课程信息
 
@@ -17,34 +15,16 @@ description: 软件工程（全英）的课程信息、学习内容与授课教�
 
 ## 课程简介
 
-介绍软件开发生命周期、工程方法、项目实践与文档工作的专业课程。
-
-## 主要内容
-
-- 软件开发过程与方法论
-- 编程项目与软件实现
-- 需求、设计等开发文档
+学习需求、设计、开发、测试与协作流程，理解软件项目的工程化方法。
 
 ## 授课教师
 
 ### M.X He
 
-课程同时包含编程、软件项目、开发文档和方法论，负担来自多个项目与理论考试并行。建议尽早拆分交付物、按周推进，并分别准备项目实践和期末理论内容。
-
 [查看 M.X He 的教学记录与贡献者评价 →](ruan-jian-gong-cheng-quan-ying/m-x-he/README.md)
-
-## 通用学习建议
-
-项目开始时先确认交付物和评分标准，按周推进；项目实践和理论考试需要采用不同的准备方式。
-
-## 资料与来源
-
-- Ian Sommerville, *Software Engineering*, 9th edition — 原修读学期复习提纲涉及的教材。
 
 ## 贡献者致谢
 
 | 贡献者 | 贡献内容 |
 | --- | --- |
-| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 M.X He 教师条目的原始课程记录与个人评价。 |
-
-> **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 M.X He 条目的原始课程记录与个人评价。 |

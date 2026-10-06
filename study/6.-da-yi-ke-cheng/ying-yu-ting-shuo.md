@@ -1,10 +1,8 @@
 ---
-description: 这门课也许是大一上期间唯一一门全程无尿点的课程，授课老师是Cecilia
+description: 汇总 Cecilia 讲授《英语听说Ⅰ》期间的教学记录与贡献者评价
 ---
 
 # 英语听说Ⅰ
-
-> 本页的课程信息可能随培养方案调整，请以适用于本人年级的培养方案和当期课程通知为准。
 
 ## 课程信息
 
@@ -17,32 +15,16 @@ description: 这门课也许是大一上期间唯一一门全程无尿点的课�
 
 ## 课程简介
 
-这门课也许是大一上期间唯一一门全程无尿点的课程，授课老师是Cecilia
-
-## 主要内容
-
-- 课程基础知识与核心概念；
-- 课程安排规定的练习、作业或实践内容；
-- 与后续课程或实际应用相关的拓展内容。
+通过听力、口语和课堂练习提升英语交流能力，为全英课程学习做准备。
 
 ## 授课教师
-### Cecilia
 
-现有资料记录了该教师（或教学团队）的课程安排与 H3Art-q 的学习体验；具体安排以当期通知为准。
+### Cecilia
 
 [查看 Cecilia 的教学记录与贡献者评价 →](ying-yu-ting-shuo/cecilia/README.md)
 
-## 通用学习建议
-
-请根据当期课程安排制定学习计划，并及时完成课程任务。
-
-## 资料与来源
-
-- 本页暂缺可公开核验的课程大纲；具体教材、课件和任务要求请以当期课程通知为准。
-
 ## 贡献者致谢
+
 | 贡献者 | 贡献内容 |
 | --- | --- |
-| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 Cecilia 条目的原始课程记录与个人评价。 |
-
-> **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 Cecilia 条目的原始课程记录与个人评价。 |

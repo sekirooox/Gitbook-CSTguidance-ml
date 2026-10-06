@@ -1,10 +1,8 @@
 ---
-description: 数据结构（全英）的课程信息、学习内容与授课教师索引
+description: 汇总 K Wang 讲授《数据结构（全英）》期间的教学记录与贡献者评价
 ---
 
 # 数据结构（全英）
-
-> 本页的课程信息可能随培养方案调整，请以适用于本人年级的培养方案和当期课程通知为准。
 
 ## 课程信息
 
@@ -17,35 +15,17 @@ description: 数据结构（全英）的课程信息、学习内容与授课教�
 
 ## 课程简介
 
-计算机专业核心基础课，讨论数据的组织、存储、查询和更新方法，并为后续算法课程奠定基础。
-
-## 主要内容
-
-- 线性表、栈、队列与树
-- 图结构及其遍历
-- 查找、排序与复杂度分析
+学习线性表、树、图、查找和排序，理解数据组织与算法实现方法。
 
 ## 授课教师
 
 ### K Wang
 
-课程重点在于把抽象数据结构与代码实现联系起来。原修读学期使用 Python，后续教学语言和教师可能调整；选择辅助材料前应先确认当期语言，并通过课程任务或在线评测练习常见结构。
-
 [查看 K Wang 的教学记录与贡献者评价 →](shu-ju-jie-gou-quan-ying/k-wang/README.md)
-
-## 通用学习建议
-
-先确认当期使用的编程语言，再配合课程任务实现常见数据结构。可使用在线评测平台强化练习，但应以课程要求为主。
-
-## 资料与来源
-
-- [浙江大学数据结构公开课](https://www.icourse163.org/course/ZJU-93001) — C 语言数据结构辅助课程。
-- [洛谷](https://www.luogu.com.cn/) 与 [LeetCode](https://leetcode.cn/problemset/all/) — 在线算法练习平台。
 
 ## 贡献者致谢
 
 | 贡献者 | 贡献内容 |
 | --- | --- |
-| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 K Wang 教师条目的原始课程记录与个人评价。 |
-
-> **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 K Wang 条目的原始课程记录与个人评价。 |
+| [![sekirooox 的 GitHub 头像](https://github.com/sekirooox.png?size=80)](https://github.com/sekirooox/Gitbook-CSTguidance-ml) | 感谢 [sekirooox](https://github.com/sekirooox) 提供 K Wang 条目的原始课程记录与个人评价。 |

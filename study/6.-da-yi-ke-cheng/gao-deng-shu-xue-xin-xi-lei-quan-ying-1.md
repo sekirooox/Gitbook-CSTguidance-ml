@@ -1,10 +1,8 @@
 ---
-description: 这门课相比上学期的难度有不小的提升，授课教师依然为L.H Xia
+description: 汇总 L.H Xia、L.Q Wu 讲授《高等数学Ⅱ(信息类)(全英)》期间的教学记录与贡献者评价
 ---
 
 # 高等数学Ⅱ(信息类)(全英)
-
-> 本页的课程信息可能随培养方案调整，请以适用于本人年级的培养方案和当期课程通知为准。
 
 ## 课程信息
 
@@ -17,32 +15,21 @@ description: 这门课相比上学期的难度有不小的提升，授课教师�
 
 ## 课程简介
 
-这门课相比上学期的难度有不小的提升，授课教师依然为L.H Xia
-
-## 主要内容
-
-- 课程基础知识与核心概念；
-- 课程安排规定的练习、作业或实践内容；
-- 与后续课程或实际应用相关的拓展内容。
+学习多元函数微积分、空间解析几何与级数等内容，延续高数基础训练。
 
 ## 授课教师
-### L.H Xia
 
-现有资料记录了该教师（或教学团队）的课程安排与 H3Art-q 的学习体验；具体安排以当期通知为准。
+### L.H Xia
 
 [查看 L.H Xia 的教学记录与贡献者评价 →](gao-deng-shu-xue-xin-xi-lei-quan-ying-1/l-h-xia/README.md)
 
-## 通用学习建议
+### L.Q Wu
 
-请根据当期课程安排制定学习计划，并及时完成课程任务。
-
-## 资料与来源
-
-- 本页暂缺可公开核验的课程大纲；具体教材、课件和任务要求请以当期课程通知为准。
+[查看 L.Q Wu 的教学记录与贡献者评价 →](gao-deng-shu-xue-xin-xi-lei-quan-ying-1/l-q-wu/README.md)
 
 ## 贡献者致谢
+
 | 贡献者 | 贡献内容 |
 | --- | --- |
-| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 L.H Xia 条目的原始课程记录与个人评价。 |
-
-> **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 L.H Xia 条目的原始课程记录与个人评价。 |
+| [![sekirooox 的 GitHub 头像](https://github.com/sekirooox.png?size=80)](https://github.com/sekirooox/Gitbook-CSTguidance-ml) | 感谢 [sekirooox](https://github.com/sekirooox) 提供 L.Q Wu 条目的原始课程记录与个人评价。 |

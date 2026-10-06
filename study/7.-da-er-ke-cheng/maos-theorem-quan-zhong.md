@@ -1,10 +1,8 @@
 ---
-description: Mao's Theorem（全中）的课程信息、学习内容与授课教师索引
+description: 汇总 Mr. Tao 讲授《Mao's Theorem（全中）》期间的教学记录与贡献者评价
 ---
 
 # Mao's Theorem（全中）
-
-> 本页的课程信息可能随培养方案调整，请以适用于本人年级的培养方案和当期课程通知为准。
 
 ## 课程信息
 
@@ -17,33 +15,16 @@ description: Mao's Theorem（全中）的课程信息、学习内容与授课教
 
 ## 课程简介
 
-页面常用名为 Mao's Theorem，课程以思想政治理论学习、小组任务和期末考核为主要组成。
-
-## 主要内容
-
-- 思想政治理论学习
-- 小组论文与课程展示
-- 期末重点整理与复习
+围绕相关理论命题及课程材料展开学习，完成课堂任务与考核要求。
 
 ## 授课教师
 
 ### Mr. Tao
 
-课程延续思政课常见形式，原经历中上学期没有小组作业，下学期则包含论文与汇报。平时需要关注考勤和课堂参与，期末应结合不同教师给出的重点整理复习范围。
-
 [查看 Mr. Tao 的教学记录与贡献者评价 →](maos-theorem-quan-zhong/mr-tao/README.md)
 
-## 通用学习建议
-
-尽早确认本班教师的作业、课堂参与和复习要求；跨班交流重点时仍应以任课教师正式说明为准。
-
-## 资料与来源
-
-- 本页暂缺可公开核验的课程大纲；具体教材、课件和任务要求请以当期课程通知为准。
-
 ## 贡献者致谢
+
 | 贡献者 | 贡献内容 |
 | --- | --- |
-| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 Mr. Tao 教师条目的原始课程记录与个人评价。 |
-
-> **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 Mr. Tao 条目的原始课程记录与个人评价。 |

@@ -1,10 +1,8 @@
 ---
-description: Java 程序设计（全英）的课程信息、学习内容与授课教师索引
+description: 汇总 Y.X Sun 讲授《Java 程序设计（全英）》期间的教学记录与贡献者评价
 ---
 
 # Java 程序设计（全英）
-
-> 本页的课程信息可能随培养方案调整，请以适用于本人年级的培养方案和当期课程通知为准。
 
 ## 课程信息
 
@@ -17,33 +15,16 @@ description: Java 程序设计（全英）的课程信息、学习内容与授�
 
 ## 课程简介
 
-Java 与面向对象程序设计入门课，通过课堂讲授、实验和项目训练基本的软件开发能力。
-
-## 主要内容
-
-- Java 基础语法
-- 面向对象程序设计
-- GUI 编程、UML 与课程项目
+学习 Java 语法、面向对象设计与常用数据结构，完成程序设计实践。
 
 ## 授课教师
 
 ### Y.X Sun
 
-课程是较易上手的面向对象编程入门，已有 C 语言基础可较快掌握前期语法。实验和结课项目适合亲自完成，以熟悉 Java、UML、GUI 编程及问题排查过程。
-
 [查看 Y.X Sun 的教学记录与贡献者评价 →](java-cheng-xu-she-ji-quan-ying/y-x-sun/README.md)
 
-## 通用学习建议
-
-不要只依赖生成式工具完成实验；应亲自实现、调试并记录问题，借项目理解对象、继承、接口和 GUI。
-
-## 资料与来源
-
-- 本页暂缺可公开核验的课程大纲；具体教材、课件和任务要求请以当期课程通知为准。
-
 ## 贡献者致谢
+
 | 贡献者 | 贡献内容 |
 | --- | --- |
-| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 Y.X Sun 教师条目的原始课程记录与个人评价。 |
-
-> **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 Y.X Sun 条目的原始课程记录与个人评价。 |

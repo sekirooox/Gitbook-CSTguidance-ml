@@ -1,10 +1,8 @@
 ---
-description: 操作系统（全英）的课程信息、学习内容与授课教师索引
+description: 汇总 Z.B He 讲授《操作系统（全英）》期间的教学记录与贡献者评价
 ---
 
 # 操作系统（全英）
-
-> 本页的课程信息可能随培养方案调整，请以适用于本人年级的培养方案和当期课程通知为准。
 
 ## 课程信息
 
@@ -17,35 +15,17 @@ description: 操作系统（全英）的课程信息、学习内容与授课教�
 
 ## 课程简介
 
-计算机专业核心课程，介绍操作系统的资源管理机制、核心抽象及相关系统编程实践。
-
-## 主要内容
-
-- 进程、线程与调度
-- 内存、文件和设备管理
-- Linux 系统调用与课程实验
+学习进程、内存、文件系统与并发等机制，理解操作系统的核心原理。
 
 ## 授课教师
 
 ### Z.B He
 
-课程术语和复习内容较多，授课偏向考研知识点，实验涉及 Linux 下的 C 语言系统调用。建议平时记录缩写和重点，使用正式模板撰写实验报告，并尽早准备期中和期末复习。
-
 [查看 Z.B He 的教学记录与贡献者评价 →](cao-zuo-xi-tong-quan-ying/z-b-he/README.md)
-
-## 通用学习建议
-
-平时记录术语、缩写和教师强调的知识点；实验报告采用正式结构。外部课程适合扩展理解，但不一定覆盖校内考点。
-
-## 资料与来源
-
-- [NJU 操作系统课程网站](https://jyywiki.cn/) — 侧重代码实践的外部扩展课程。
-- [NJU 操作系统课程视频](https://www.bilibili.com/video/BV1Xm411f7CM/) — 外部辅助视频。
 
 ## 贡献者致谢
 
 | 贡献者 | 贡献内容 |
 | --- | --- |
-| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 Z.B He 教师条目的原始课程记录与个人评价。 |
-
-> **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 Z.B He 条目的原始课程记录与个人评价。 |
+| [![sekirooox 的 GitHub 头像](https://github.com/sekirooox.png?size=80)](https://github.com/sekirooox/Gitbook-CSTguidance-ml) | 感谢 [sekirooox](https://github.com/sekirooox) 提供 Z.B He 条目的原始课程记录与个人评价。 |

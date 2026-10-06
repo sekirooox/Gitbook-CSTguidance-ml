@@ -29,8 +29,14 @@ description: 汇总 L.D Fang 讲授数值计算基础期间的教学记录与贡
 
 [阅读 H3Art-q 的完整评价 →](h3art-q.md)
 
+### MayL
+
+> L.D Fang 的英语授课水平较差；不过 PPT 和考试内容比较对得上，全文背诵可高分。
+
+[阅读 MayL 的完整评价 →](MayL.md)
+
 ## 贡献者致谢
 
-感谢 [@H3Art-q](https://github.com/H3Art-q) 提供本教师条目的课程记录与个人体验。
+感谢 [@H3Art-q](https://github.com/H3Art-q) 和 [@sekirooox](https://github.com/sekirooox) 提供本教师条目的课程记录与个人体验。
 
 > **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**

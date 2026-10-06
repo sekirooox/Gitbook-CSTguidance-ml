@@ -1,10 +1,8 @@
 ---
-description: 介绍数字图像处理课程的基本信息、主要内容、授课教师与通用学习建议
+description: 汇总 Q.F Zhang 讲授《数字图像处理（全英）》期间的教学记录与贡献者评价
 ---
 
 # 数字图像处理（全英）
-
-> 本页的课程信息可能随培养方案调整，请以适用于本人年级的培养方案和当期课程通知为准。
 
 ## 课程信息
 
@@ -17,35 +15,16 @@ description: 介绍数字图像处理课程的基本信息、主要内容、授�
 
 ## 课程简介
 
-课程介绍数字图像处理的基础方法，并通过 MATLAB 实验、课程作业及项目或考试巩固相关技术。
-
-## 主要内容
-
-- 图像表示、增强与变换；
-- MATLAB 图像处理实践；
-- 图像处理项目与报告；
+学习图像变换、增强、滤波与分析方法，并通过实验理解处理流程。
 
 ## 授课教师
 
 ### Q.F Zhang
 
-现有记录整理了 Q.F Zhang 讲授本课程时的教学安排和 H3Art-q 的修读体验。具体安排可能随学期变化。
-
 [查看 Q.F Zhang 的教学记录与贡献者评价 →](shu-zi-tu-xiang-chu-li-quan-ying/q-f-zhang/README.md)
 
-## 通用学习建议
-
-- 先根据当期教学大纲确认课程范围、考核方式和提交要求；
-- 将课堂材料与教材、可靠的公开资料结合使用，优先理解基本概念和方法；
-- 对课程项目和报告尽早规划，使用外部工具或生成式 AI 时应遵守课程政策并核验结果。
-
-## 资料与来源
-
-- 本页暂缺可公开核验的课程大纲；具体教材、课件和任务要求请以当期课程通知为准。
-
 ## 贡献者致谢
+
 | 贡献者 | 贡献内容 |
 | --- | --- |
-| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 Q.F Zhang 教师条目的原始课程记录与个人评价。 |
-
-> **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 Q.F Zhang 条目的原始课程记录与个人评价。 |
