@@ -37,8 +37,11 @@ Java 与面向对象程序设计入门课，通过课堂讲授、实验和项目
 
 不要只依赖生成式工具完成实验；应亲自实现、调试并记录问题，借项目理解对象、继承、接口和 GUI。
 
-## 贡献者致谢
+## 资料与来源
 
+- 本页暂缺可公开核验的课程大纲；具体教材、课件和任务要求请以当期课程通知为准。
+
+## 贡献者致谢
 | 贡献者 | 贡献内容 |
 | --- | --- |
 | [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 Y.X Sun 教师条目的原始课程记录与个人评价。 |

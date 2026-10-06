@@ -39,8 +39,11 @@ description: 介绍软件工程中的形式化方法课程的基本信息、主�
 - 将课堂材料与教材、可靠的公开资料结合使用，优先理解基本概念和方法；
 - 对课程项目和报告尽早规划，使用外部工具或生成式 AI 时应遵守课程政策并核验结果。
 
-## 贡献者致谢
+## 资料与来源
 
+- 本页暂缺可公开核验的课程大纲；具体教材、课件和任务要求请以当期课程通知为准。
+
+## 贡献者致谢
 | 贡献者 | 贡献内容 |
 | --- | --- |
 | [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 Q.L Chen 教师条目的原始课程记录与个人评价。 |

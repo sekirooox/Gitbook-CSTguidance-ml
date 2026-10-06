@@ -37,8 +37,11 @@ description: Mao's Theorem（全中）的课程信息、学习内容与授课教
 
 尽早确认本班教师的作业、课堂参与和复习要求；跨班交流重点时仍应以任课教师正式说明为准。
 
-## 贡献者致谢
+## 资料与来源
 
+- 本页暂缺可公开核验的课程大纲；具体教材、课件和任务要求请以当期课程通知为准。
+
+## 贡献者致谢
 | 贡献者 | 贡献内容 |
 | --- | --- |
 | [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 Mr. Tao 教师条目的原始课程记录与个人评价。 |

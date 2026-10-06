@@ -37,8 +37,11 @@ description: 离散数学Ⅱ（全英）的课程信息、学习内容与授课�
 
 先复习离散数学Ⅰ的核心概念，将课程内容和同期数据结构主题对照理解，并及时复盘作业。
 
-## 贡献者致谢
+## 资料与来源
 
+- 本页暂缺可公开核验的课程大纲；具体教材、课件和任务要求请以当期课程通知为准。
+
+## 贡献者致谢
 | 贡献者 | 贡献内容 |
 | --- | --- |
 | [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [@H3Art-q](https://github.com/H3Art-q) 提供 Z Huang 教师条目的原始课程记录与个人评价。 |
