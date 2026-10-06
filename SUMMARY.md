@@ -171,7 +171,7 @@
   * [计算机体系结构（全英）](study/9.-da-si-ke-cheng/ji-suan-ji-ti-xi-jie-gou-quan-ying.md)
     * [课程教学团队](study/9.-da-si-ke-cheng/ji-suan-ji-ti-xi-jie-gou-quan-ying/teaching-team/README.md)
       * [H3Art-q 的课程评价](study/9.-da-si-ke-cheng/ji-suan-ji-ti-xi-jie-gou-quan-ying/teaching-team/h3art-q.md)
-* [0x0C 专业选修](study/10.-zhuan-ye-xuan-xiu/README.md)
+* [0x0C🧠专业选修](study/10.-zhuan-ye-xuan-xiu/README.md)
   * [人工智能（全英）](study/10.-zhuan-ye-xuan-xiu/ren-gong-zhi-neng.md)
     * [Z.H Jiang](study/10.-zhuan-ye-xuan-xiu/ren-gong-zhi-neng/z-h-jiang/README.md)
       * [MayL 的课程评价](study/10.-zhuan-ye-xuan-xiu/ren-gong-zhi-neng/z-h-jiang/MayL.md)
