@@ -29,8 +29,14 @@ description: 汇总 Z.Y He 讲授概率统计（全英）期间的教学记录�
 
 [阅读 H3Art-q 的完整评价 →](h3art-q.md)
 
+### MayL
+
+> 课堂结合板书、例题与中英文讲解，内容覆盖概率论和数理统计的主要主题；作业及阶段测验是准备期末考试的重要材料。
+
+[阅读 MayL 的完整评价 →](MayL.md)
+
 ## 贡献者致谢
 
-感谢 [@H3Art-q](https://github.com/H3Art-q) 提供本教师条目的课程记录与个人体验。
+感谢 [@H3Art-q](https://github.com/H3Art-q) 和 [@sekirooox](https://github.com/sekirooox) 提供本教师条目的课程记录与个人体验。
 
 > **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**

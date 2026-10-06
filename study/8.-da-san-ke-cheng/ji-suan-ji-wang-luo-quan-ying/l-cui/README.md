@@ -29,8 +29,14 @@ description: 汇总 L Cui 讲授计算机网络期间的教学记录与贡献者
 
 [阅读 H3Art-q 的完整评价 →](h3art-q.md)
 
+### MayL
+
+> 课程从物理层讲到应用层，重点包括链路层、网络层和传输层；课程网站、实验和阶段测验可用于巩固协议与网络分析方法。
+
+[阅读 MayL 的完整评价 →](MayL.md)
+
 ## 贡献者致谢
 
-感谢 [@H3Art-q](https://github.com/H3Art-q) 提供本教师条目的课程记录与个人体验。
+感谢 [@H3Art-q](https://github.com/H3Art-q) 和 [@sekirooox](https://github.com/sekirooox) 提供本教师条目的课程记录与个人体验。
 
 > **免责声明：个人评价属于主观性内容，本手册不为其内容负责。**
