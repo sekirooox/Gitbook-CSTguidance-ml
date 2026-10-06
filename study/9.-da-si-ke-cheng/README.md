@@ -22,11 +22,11 @@ description: 大四课程入口与原作者的阶段性学习思考
 
 ## 课程入口
 
-- [面向对象方法学（全英）](mian-xiang-dui-xiang-fang-fa-xue-quan-ying.md)
-- [编译构建（全英）](bian-yi-gou-jian-quan-ying.md)
-- [计算机视觉（全英）](ji-suan-ji-shi-jue-quan-ying.md)
-- [教育数据挖掘与分析（全英）](jiao-yu-shu-ju-wa-jue-yu-fen-xi-quan-ying.md)
-- [计算机体系结构（全英）](ji-suan-ji-ti-xi-jie-gou-quan-ying.md)
+- [面向对象方法学（全英）](../10.-zhuan-ye-xuan-xiu/mian-xiang-dui-xiang-fang-fa-xue-quan-ying.md)
+- [编译构建（全英）](../10.-zhuan-ye-xuan-xiu/bian-yi-gou-jian-quan-ying.md)
+- [计算机视觉（全英）](../10.-zhuan-ye-xuan-xiu/ji-suan-ji-shi-jue-quan-ying.md)
+- [教育数据挖掘与分析（全英）](../10.-zhuan-ye-xuan-xiu/jiao-yu-shu-ju-wa-jue-yu-fen-xi-quan-ying.md)
+- [计算机体系结构（全英）](../10.-zhuan-ye-xuan-xiu/ji-suan-ji-ti-xi-jie-gou-quan-ying.md)
 
 ## 阶段规划建议
 
