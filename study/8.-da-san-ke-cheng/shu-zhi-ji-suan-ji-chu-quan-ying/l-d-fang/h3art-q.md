@@ -1,8 +1,8 @@
 ---
-description: H3Art-q 对 L.D Fang 讲授数值计算基础课程的个人评价
+description: H3Art-q 对 L.D Fang 讲授《数值计算基础》的个人评价
 ---
 
-# H3Art-q 对 L.D Fang《数值计算基础》的评价
+# H3Art-q 对 L.D Fang 讲授《数值计算基础》的评价
 
 ## 课程记录
 

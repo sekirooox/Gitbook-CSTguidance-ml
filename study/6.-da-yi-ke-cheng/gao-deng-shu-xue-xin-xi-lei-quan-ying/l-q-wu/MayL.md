@@ -53,6 +53,9 @@ Wu老师的授课水平比较高，基本能将比较抽象的数学概念解释
 + 定积分的应用：例如让你用积分求解面积的**实际问题**。
 + 微分方程：**这个一般不考，不过最好了解一下**，实际问题中可能会遇到。
 
+
+<figure><img src="../../../../.gitbook/assets/MayL/gao-deng-shu-xue-notes.jpg" alt="高等数学" width="362"><figcaption><p>2023届的大题</p></figcaption></figure>
+
 ### 考勤情况
 从不考勤，连续18周不来都没关系。
 
