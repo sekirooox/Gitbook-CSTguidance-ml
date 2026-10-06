@@ -41,7 +41,7 @@ K Wang作为正教授，每天忙着自己的项目和开会，自然是把这�
 ### 参考课本
 主要参考这本：Python数据结构与算法分析。PPT和测验习题都是出自这本书。
 
-<figure><img src="../../../../.gitbook\assets\ds-python.jpg" alt="图片说明" width="500"><figcaption><p>Python数据结构与算法分析</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/ds-python.jpg" alt="图片说明" width="500"><figcaption><p>Python数据结构与算法分析</p></figcaption></figure>
 
 
 
@@ -64,7 +64,7 @@ K Wang作为正教授，每天忙着自己的项目和开会，自然是把这�
 整体难度中等偏低，我估计老师有课本对应的题库，**总体来看与课后题的重合度不高，与408真题都没太大关系**。
 
 大题就是**设计题为主，例如栈和队列的转换**之类，较少出现408的原题。
-<figure><img src="../../../../.gitbook\assets\stack2queue.jpg" alt="图片说明" width="500"><figcaption><p>设计题示例：要求你给出用栈实现队列的伪代码，语言不限</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/stack2queue.jpg" alt="图片说明" width="500"><figcaption><p>设计题示例：要求你给出用栈实现队列的伪代码，语言不限</p></figcaption></figure>
 
 ### 实验课
 我们当年的实验课是**TA布置几道算法题**，难度从简单到困难不等。例如：

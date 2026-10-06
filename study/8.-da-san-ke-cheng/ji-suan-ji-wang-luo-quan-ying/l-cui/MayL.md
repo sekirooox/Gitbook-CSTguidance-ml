@@ -51,7 +51,7 @@ L Cui老师认真负责，个人收获大，得分较高。
 + 我个人使用的课本是计算机网络：自顶向下方法。这本书的质量较高，建议有空可以自行研3读。
 + **实际不需要研读课本，搞定PPT就好了**。
 
-<figure><img src="../../../../.gitbook\assets\CSNet.jpg" alt="图片说明" width="500"><figcaption><p>计算机网络：自顶向下方法</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CSNet.jpg" alt="图片说明" width="500"><figcaption><p>计算机网络：自顶向下方法</p></figcaption></figure>
 
 ### 学习资源
 可以参照湖师大的[计算机网络微课堂（有字幕无背景音乐版）](https://www.bilibili.com/video/BV1c4411d7jb/?spm_id_from=333.1387.homepage.video_card.click)来进行理解和学习💕。

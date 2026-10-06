@@ -47,7 +47,8 @@ Z.H Jiang的**死感比较重**，基本就是全程使用英文朗读PPT+少量
 ### 参考课本
 + 课本比较形式化，**不建议啃书**。
 + 可以参考官方课程 [MIT6.006](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/6.006/#_1)：不过比较是比较古早的课程，适当配合理解就行。
-<figure><img src="../../../../.gitbook\assets\CLRS.jpg" alt="图片说明" width="500"><figcaption><p>算法导论：著名大黑书</p></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/CLRS.jpg" alt="图片说明" width="500"><figcaption><p>算法导论：著名大黑书</p></figcaption></figure>
 
 
 
