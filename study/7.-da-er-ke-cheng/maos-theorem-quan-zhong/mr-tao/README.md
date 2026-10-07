@@ -1,8 +1,8 @@
 ---
-description: 汇总 Mr. Tao 讲授Mao's Theorem（全中）期间的教学记录与贡献者评价
+description: 汇总 Mr. Tao 讲授毛泽东思想和中国特色社会主义理论概论期间的教学记录与贡献者评价
 ---
 
-# Mr. Tao · Mao's Theorem（全中）
+# Mr. Tao · 毛泽东思想和中国特色社会主义理论概论
 
 > 本页汇总 Mr. Tao 讲授本课程期间的教学记录。具体安排可能因学期调整，请以当期课程通知为准。
 

@@ -1,8 +1,8 @@
 ---
-description: H3Art-q 对 Mr. Tao 讲授Mao's Theorem（全中）的个人课程评价
+description: H3Art-q 对 Mr. Tao 讲授毛泽东思想和中国特色社会主义理论概论的个人课程评价
 ---
 
-# H3Art-q 对 Mr. Tao《Mao's Theorem（全中）》的评价
+# H3Art-q 对 Mr. Tao《毛泽东思想和中国特色社会主义理论概论》的评价
 
 ## 课程记录
 

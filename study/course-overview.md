@@ -29,7 +29,7 @@ description: 按年级、目录结构、性质、主题和特征查找已有课�
 
 - [计算机组成原理（全英）](7.-da-er-ke-cheng/ji-suan-ji-zu-cheng-yuan-li-quan-ying.md) · [数据结构（全英）](7.-da-er-ke-cheng/shu-ju-jie-gou-quan-ying.md) · [算法设计与分析（全英）](7.-da-er-ke-cheng/suan-fa-she-ji-yu-fen-xi-quan-ying.md)
 - [操作系统（全英）](7.-da-er-ke-cheng/cao-zuo-xi-tong-quan-ying.md) · [软件工程（全英）](7.-da-er-ke-cheng/ruan-jian-gong-cheng-quan-ying.md) · [离散数学Ⅱ（全英）](7.-da-er-ke-cheng/li-san-shu-xue-ii-quan-ying.md)
-- [概率统计（全英）](7.-da-er-ke-cheng/gai-shuai-tong-ji-quan-ying.md) · [大学物理（全英）](7.-da-er-ke-cheng/da-xue-wu-li-quan-ying.md) · [大学物理实验（全英）](7.-da-er-ke-cheng/da-xue-wu-li-shi-yan-quan-ying.md) · [Mao's Theorem（全中）](7.-da-er-ke-cheng/maos-theorem-quan-zhong.md)
+- [概率统计（全英）](7.-da-er-ke-cheng/gai-shuai-tong-ji-quan-ying.md) · [大学物理（全英）](7.-da-er-ke-cheng/da-xue-wu-li-quan-ying.md) · [大学物理实验（全英）](7.-da-er-ke-cheng/da-xue-wu-li-shi-yan-quan-ying.md) · [毛泽东思想和中国特色社会主义理论概论](7.-da-er-ke-cheng/maos-theorem-quan-zhong.md)
 
 ### 0x0A 大三课程
 
@@ -66,7 +66,7 @@ description: 按年级、目录结构、性质、主题和特征查找已有课�
 
 ## 按特征查找
 
-- **页面标题标注“全英”：** 除大一公共课程、英语课程、Mao's Theorem 及通识选修记录外，多数专业课程页面在标题中标注“全英”；可从上方目录结构直接识别。该标记来自页面标题，实际授课语言比例待按学期核验。
+- **页面标题标注“全英”：** 除大一公共课程、英语课程、毛泽东思想和中国特色社会主义理论概论及通识选修记录外，多数专业课程页面在标题中标注“全英”；可从上方目录结构直接识别。该标记来自页面标题，实际授课语言比例待按学期核验。
 - **页面明确记录课程项目或报告：** [软件工程](7.-da-er-ke-cheng/ruan-jian-gong-cheng-quan-ying.md)、[机器学习](10.-zhuan-ye-xuan-xiu/ji-qi-xue-xi-quan-ying.md)、[计算机视觉](10.-zhuan-ye-xuan-xiu/ji-suan-ji-shi-jue-quan-ying.md)、[教育数据挖掘与分析](10.-zhuan-ye-xuan-xiu/jiao-yu-shu-ju-wa-jue-yu-fen-xi-quan-ying.md)、[计算机体系结构](10.-zhuan-ye-xuan-xiu/ji-suan-ji-ti-xi-jie-gou-quan-ying.md)。具体要求可能变化。
 - **作业量较大、包含实验等其他特征：** 尚未完成跨页面一致核验，暂不建立结论性列表。
 

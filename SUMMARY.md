@@ -89,7 +89,7 @@
   * [大学物理（全英）](study/7.-da-er-ke-cheng/da-xue-wu-li-quan-ying.md)
     * [R.Y Lin](study/7.-da-er-ke-cheng/da-xue-wu-li-quan-ying/r-y-lin/README.md)
       * [H3Art-q 的课程评价](study/7.-da-er-ke-cheng/da-xue-wu-li-quan-ying/r-y-lin/h3art-q.md)
-  * [Mao's Theorem（全中）](study/7.-da-er-ke-cheng/maos-theorem-quan-zhong.md)
+  * [毛泽东思想和中特概论](study/7.-da-er-ke-cheng/maos-theorem-quan-zhong.md)
     * [Mr. Tao](study/7.-da-er-ke-cheng/maos-theorem-quan-zhong/mr-tao/README.md)
       * [H3Art-q 的课程评价](study/7.-da-er-ke-cheng/maos-theorem-quan-zhong/mr-tao/h3art-q.md)
   * [操作系统（全英）](study/7.-da-er-ke-cheng/cao-zuo-xi-tong-quan-ying.md)
