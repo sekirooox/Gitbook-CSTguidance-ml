@@ -6,8 +6,6 @@
 * [0x01🧭导航总览](navigation/README.md)
   * [快速导航](navigation/quick-navigation.md)
 
-## 新生入门
-
 * [0x02🎓新生入门](navigation/new-students.md)
 * [0x03🤔专业导引](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/README.md)
   * [先来了解一下自己的专业](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/xian-lai-le-jie-yi-xia-zi-ji-de-zhuan-ye-ba.md)
