@@ -54,8 +54,8 @@ Z.Y He感觉**偏向内地，英语比较一般，平时也不怎么说英文**�
 **总共有两次Quiz，题目基本出自PPT或者作业习题**。
 
 并且**已经上传到配套网站**，可以自行查阅：
-+ [Quiz1](https://github.com/H3Art-q/JNU-IS-CST-Courses/blob/main/Probability%20Statistics%20%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/Misc/Quiz1(ch1-ch3).pdf)：ch1-ch3
-+ [Quiz2](https://github.com/H3Art-q/JNU-IS-CST-Courses/blob/main/Probability%20Statistics%20%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/Misc/Quiz2(ch4-ch5).pdf)：ch4-ch5
++ [Quiz1](https://github.com/H3Art-q/JNU-IS-CST-Courses/blob/main/Probability%20Statistics%20%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/Misc/Quiz1%28ch1-ch3%29.pdf)：ch1-ch3
++ [Quiz2](https://github.com/H3Art-q/JNU-IS-CST-Courses/blob/main/Probability%20Statistics%20%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/Misc/Quiz2%28ch4-ch5%29.pdf)：ch4-ch5
 
 
 

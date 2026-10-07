@@ -48,7 +48,7 @@ description: H3Art-q 对 Z Huang 讲授《问题求解与程序设计(全英)》
 * 菜鸟教程：[Runoob](https://www.runoob.com/)，下滑到服务端那块就可以看到C的教程
 * [Baidu.com](https://www.baidu.com/)，[Bing.com](https://cn.bing.com/)，[Google.com](http://www.google.cn/)，懂的都懂，不懂的就查
 * 中国大学MOOC：[程序设计入门——C语言](https://www.icourse163.org/course/0809ZJU007A-199001?outVendor=zw_mooc_pclszykctj_)，由浙江大学的翁恺教授中文讲课，好评如潮
-* B站上的公开课程：[黑马程序员C语言基础教程](https://www.bilibili.com/video/BV1vs411n7TH?share_source=copy_web\&vd_source=2e2bcfa887bf8da9bde84af9fe79f8eb)，黑马是个就业培训机构，入门教程对付课内内容绰绰有余了
+* B站上的公开课程：[黑马程序员C语言基础教程](https://www.bilibili.com/video/BV1vs411n7TH?share_source=copy_web&vd_source=2e2bcfa887bf8da9bde84af9fe79f8eb)，黑马是个就业培训机构，入门教程对付课内内容绰绰有余了
 * 一个刷题网站：[洛谷](https://www.luogu.com.cn/)，对着左边栏的题单把入门题刷了对你上手c有很大帮助，**实践**是学习这些工具最快的办法
 
 #### IDE资源

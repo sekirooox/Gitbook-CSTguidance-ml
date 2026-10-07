@@ -45,9 +45,9 @@ description: H3Art-q 对 W.H Zhu 讲授《线性代数(全英)》的个人课程
 
 ### 视频资源
 
-* MIT教授的线性代数课(与我们使用的课本不一样，但是体系上相近，课程视频时间较长，适合**学期初**就开始观看)：[视频链接](https://www.bilibili.com/video/BV16Z4y1U7oU?share\_source=copy\_web\&vd\_source=2e2bcfa887bf8da9bde84af9fe79f8eb)
-* 3blue1brown制作，线性代数的本质系列视频(帮助大家形象快速理解线性代数的各种计算是在干嘛，视频制作精良，短小精悍，我放上国内up主中文配音的版本，原版在b站搜3b1b也可以找到)：[视频链接](https://www.bilibili.com/video/BV1ib411t7YR?share\_source=copy\_web\&vd\_source=2e2bcfa887bf8da9bde84af9fe79f8eb)
-* 时间不够多的时候适合看的一个教学视频(up主很贴心把内容题型都分成了不超过20min的小part，可以期末分点查漏补缺时看)：[视频链接](https://www.bilibili.com/video/BV1HB4y1T7Mc?share\_source=copy\_web\&vd\_source=2e2bcfa887bf8da9bde84af9fe79f8eb)
+* MIT教授的线性代数课(与我们使用的课本不一样，但是体系上相近，课程视频时间较长，适合**学期初**就开始观看)：[视频链接](https://www.bilibili.com/video/BV16Z4y1U7oU?share_source=copy_web&vd_source=2e2bcfa887bf8da9bde84af9fe79f8eb)
+* 3blue1brown制作，线性代数的本质系列视频(帮助大家形象快速理解线性代数的各种计算是在干嘛，视频制作精良，短小精悍，我放上国内up主中文配音的版本，原版在b站搜3b1b也可以找到)：[视频链接](https://www.bilibili.com/video/BV1ib411t7YR?share_source=copy_web&vd_source=2e2bcfa887bf8da9bde84af9fe79f8eb)
+* 时间不够多的时候适合看的一个教学视频(up主很贴心把内容题型都分成了不超过20min的小part，可以期末分点查漏补缺时看)：[视频链接](https://www.bilibili.com/video/BV1HB4y1T7Mc?share_source=copy_web&vd_source=2e2bcfa887bf8da9bde84af9fe79f8eb)
 
 ### 学习建议
 

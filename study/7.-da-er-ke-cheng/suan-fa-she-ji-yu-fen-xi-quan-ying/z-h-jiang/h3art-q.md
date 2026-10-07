@@ -48,7 +48,7 @@ PPT糊弄、催眠；无测验仅两次HW，80+不难，背PPT。
 
 自从20级非常低分（似乎70多80分算多）后老师似乎比较想把我们捞起来，于是在21级的时候拿80分往上不会太难了
 ### 推荐资源
-关于如何自学，这课不需要很勤刷编程算法题，但可以根据对应章节去看看网课内容，这课的内容包含在[MIT 6.006](https://www.bilibili.com/video/BV1fu41127MN/?share_source=copy_web\&vd_source=2e2bcfa887bf8da9bde84af9fe79f8eb)中，与北大公开课[算法设计与分析](https://www.bilibili.com/video/BV1Ls411W7PB/?share_source=copy_web\&vd_source=2e2bcfa887bf8da9bde84af9fe79f8eb)有大量重合部分
+关于如何自学，这课不需要很勤刷编程算法题，但可以根据对应章节去看看网课内容，这课的内容包含在[MIT 6.006](https://www.bilibili.com/video/BV1fu41127MN/?share_source=copy_web&vd_source=2e2bcfa887bf8da9bde84af9fe79f8eb)中，与北大公开课[算法设计与分析](https://www.bilibili.com/video/BV1Ls411W7PB/?share_source=copy_web&vd_source=2e2bcfa887bf8da9bde84af9fe79f8eb)有大量重合部分
 
 ### 期末考试
 最后，在结课前老师应该会给一点模拟题型，但那些基本不会在正式考试中再次出现（她自己说的），所有考试内容均出自PPT（书本内容帮助理解，复习的时候啃PPT就行），不过会有一点点算法描述题考点思维，自此CST完全进入**背多分**教学

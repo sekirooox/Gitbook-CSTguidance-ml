@@ -18,9 +18,9 @@ description: 查找军训、社团、饮食和校园日常经验
 
 ## 入学适应
 
-- [军训与新训](../survival/2.-jun-xun-xin-xun-xiang-guan/README.md)
-- [军训与新训：历史经历与准备](../survival/2.-jun-xun-xin-xun-xiang-guan/jun-xun-xin-xun-nei-rong.md)
-- [参训之外的事情](../survival/2.-jun-xun-xin-xun-xiang-guan/can-xun-zhi-wai-de-shi-qing.md)
+- [军训与新训](../intro/2.-jun-xun-xin-xun-xiang-guan/README.md)
+- [军训与新训：历史经历与准备](../intro/2.-jun-xun-xin-xun-xiang-guan/jun-xun-xin-xun-nei-rong.md)
+- [参训之外的事情](../intro/2.-jun-xun-xin-xun-xiang-guan/can-xun-zhi-wai-de-shi-qing.md)
 
 ## 校园日常
 

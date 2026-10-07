@@ -41,7 +41,7 @@ description: 按主题、年级和常见任务快速查找指南内容
 - [专业导引](../intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/README.md)
 - [软件准备](../intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ruan-jian-she-bei.md)
 - [硬件准备](../intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ying-jian-she-bei.md)
-- [军训与新训](../survival/2.-jun-xun-xin-xun-xiang-guan/README.md)
+- [军训与新训](../intro/2.-jun-xun-xin-xun-xiang-guan/README.md)
 - [社团与组织](../survival/3.-she-tuan-zu-zhi-xiang-guan.md)
 - [日常生活](../survival/4.-ri-chang-sheng-huo-xiang-guan/README.md)
 - [学习相关](../study/5.-xue-xi-xiang-guan.md)

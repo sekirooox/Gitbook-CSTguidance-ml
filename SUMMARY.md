@@ -11,9 +11,9 @@
   * [先来了解一下自己的专业](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/xian-lai-le-jie-yi-xia-zi-ji-de-zhuan-ye-ba.md)
   * [专业所需的软件设备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ruan-jian-she-bei.md)
   * [专业所需的硬件设备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ying-jian-she-bei.md)
-* [0x04🥵军训/新训相关](survival/2.-jun-xun-xin-xun-xiang-guan/README.md)
-  * [军训/新训内容](survival/2.-jun-xun-xin-xun-xiang-guan/jun-xun-xin-xun-nei-rong.md)
-  * [参训之外的事情](survival/2.-jun-xun-xin-xun-xiang-guan/can-xun-zhi-wai-de-shi-qing.md)
+* [0x04🥵军训/新训相关](intro/2.-jun-xun-xin-xun-xiang-guan/README.md)
+  * [军训/新训内容](intro/2.-jun-xun-xin-xun-xiang-guan/jun-xun-xin-xun-nei-rong.md)
+  * [参训之外的事情](intro/2.-jun-xun-xin-xun-xiang-guan/can-xun-zhi-wai-de-shi-qing.md)
 
 ## 🤏 STUDY
 
@@ -196,7 +196,7 @@
 ## 🚀 GROWTH
 
 * [0x11🚀发展与成长](navigation/development-and-growth.md)
-* [0x12🛤️出路方向简述](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/chu-lu-fang-xiang-jian-shu.md)
+* [0x12🛤️出路方向简述](growth/chu-lu-fang-xiang-jian-shu.md)
 
 ## 👍 TAIL
 

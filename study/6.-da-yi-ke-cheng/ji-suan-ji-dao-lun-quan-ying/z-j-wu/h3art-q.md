@@ -53,7 +53,7 @@ description: H3Art-q 对 Z.J Wu 讲授《计算机导论(全英)》的个人课�
 前年期末考试的形式是交一篇论文即可，而去年则是**笔试**，闭卷考试，需要做好准备，选择判断填空简答题都有(我上一年考试的时候在试卷上写的英文比英语考试的时候写得还多)
 
 ### 推荐资料
-最后的资料有： 可以看看B站上的[计算机科学速成课](https://www.bilibili.com/video/BV1EW411u7th?share\_source=copy\_web\&vd\_source=2e2bcfa887bf8da9bde84af9fe79f8eb)，同样是英文但有字幕，每集10分钟内，可以简略了解计算机的相关知识
+最后的资料有： 可以看看B站上的[计算机科学速成课](https://www.bilibili.com/video/BV1EW411u7th?share_source=copy_web&vd_source=2e2bcfa887bf8da9bde84af9fe79f8eb)，同样是英文但有字幕，每集10分钟内，可以简略了解计算机的相关知识
 
 ## 贡献信息
 

@@ -50,7 +50,7 @@ H.R Wu来完成上课KPI的，这个老师是JNU近5年引入的**青椒老师�
 事实上，我从来没有听过他讲课。**不过我建议大家还是多少自学一点**，因为对于后续开发还是很有帮助的。
 ### 学习资源
 + 自学的话，我建议0基础可以看赵亮老师的[数据库系统原理](https://www.bilibili.com/video/BV1W3411y7dw/?spm_id_from=333.337.search-card.all.click)这门课。
-+ [SQL](http://sqlmother.yupi.icu/#/learn)的练习：以后除了算法岗之外，大概率要接触数据库，因此掌握一些基本的SQL语句还是相当有必要的。
++ [SQLBolt](https://sqlbolt.com/) 的练习：以后除了算法岗之外，大概率要接触数据库，因此掌握一些基本的SQL语句还是相当有必要的。
 
 
 ### 考勤情况

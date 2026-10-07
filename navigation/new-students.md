@@ -25,8 +25,8 @@ description: 面向 JNU CST 新生的入学准备与第一阶段阅读入口
 
 ## 报到后
 
-1. [军训与新训](../survival/2.-jun-xun-xin-xun-xiang-guan/README.md)
-2. [参训之外的事情](../survival/2.-jun-xun-xin-xun-xiang-guan/can-xun-zhi-wai-de-shi-qing.md)
+1. [军训与新训](../intro/2.-jun-xun-xin-xun-xiang-guan/README.md)
+2. [参训之外的事情](../intro/2.-jun-xun-xin-xun-xiang-guan/can-xun-zhi-wai-de-shi-qing.md)
 3. [大一课程](../study/6.-da-yi-ke-cheng/README.md)
 4. [日常生活](../survival/4.-ri-chang-sheng-huo-xiang-guan/README.md)
 

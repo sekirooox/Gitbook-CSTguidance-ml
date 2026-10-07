@@ -54,7 +54,7 @@ Xia老师认真负责；期末题量大，多多练习能拿高分。
 ### 视频资源
 这么好的老师，不**考多点分**给他太对不起他了，最后放上老师期末练习题的视频讲解
 
-上述练习老师录制的讲解视频2个：[选择题部分](https://www.bilibili.com/video/BV1bW4y1k7Yd?share\_source=copy\_web\&vd\_source=2e2bcfa887bf8da9bde84af9fe79f8eb)，[填空题部分](https://www.bilibili.com/video/BV1nv4y1G7BU?share\_source=copy\_web\&vd\_source=2e2bcfa887bf8da9bde84af9fe79f8eb)
+上述练习老师录制的讲解视频2个：[选择题部分](https://www.bilibili.com/video/BV1bW4y1k7Yd?share_source=copy_web&vd_source=2e2bcfa887bf8da9bde84af9fe79f8eb)，[填空题部分](https://www.bilibili.com/video/BV1nv4y1G7BU?share_source=copy_web&vd_source=2e2bcfa887bf8da9bde84af9fe79f8eb)
 
 
 ## 贡献信息

@@ -59,7 +59,7 @@ PPT好能自学，考勤少，作业自批好糊弄，期末背PPT，无基础�
 
 作业的话，属于自写自批改，最后下发登记表自己填成绩，不过需要确保你的作业是真实有写的，因为需要上交，每年题目基本固定。
 
-相关的Solution Manual被我发现在一个[官方网页](https://media.pearsoncmg.com/aw/aw\_sauer\_num\_analysis\_3/solutions/main.html)上，不过可能存在一些题目的缺漏，属于用AI Copilot糊弄一下也可以的程度。
+相关的Solution Manual被我发现在一个[官方网页](https://media.pearsoncmg.com/aw/aw_sauer_num_analysis_3/solutions/main.html)上，不过可能存在一些题目的缺漏，属于用AI Copilot糊弄一下也可以的程度。
 
 然而，大多数人都是在上交前一两天才疯狂开补这玩意，手写得还是挺累的，建议每周都写一点或者提前完成
 
