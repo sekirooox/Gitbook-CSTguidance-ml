@@ -25,9 +25,9 @@ description: 通识教育选修课的个人修读记录与选课注意事项
 | 小儿推拿家庭保健与饮食调护 | 100 | [H3Art-q](https://github.com/H3Art-q) | ⭐⭐⭐⭐⭐ |
 | 生殖健康与优生 | 98，97 | [H3Art-q](https://github.com/H3Art-q)，[sekirooox](https://github.com/sekirooox) | ⭐⭐⭐⭐ |
 | 当代全球商务 | 100，98 | [H3Art-q](https://github.com/H3Art-q)，[sekirooox](https://github.com/sekirooox) | ⭐⭐⭐⭐⭐ |
-| 诺贝尔奖解析——医学篇 | 98 | [H3Art-q](https://github.com/H3Art-q) | ⭐⭐⭐⭐ |
-| 生态学通识 | 93 | [H3Art-q](https://github.com/H3Art-q) | ⭐ |
-| 现代企业管理概论 | 99 | [H3Art-q](https://github.com/H3Art-q) | ⭐⭐⭐⭐ |
+| 诺贝尔奖解析——医学篇 | 98 |[sekirooox](https://github.com/sekirooox) | ⭐⭐⭐⭐ |
+| 生态学通识 | 93 | [sekirooox](https://github.com/sekirooox) | ⭐ |
+| 现代企业管理概论 | 99 | [sekirooox](https://github.com/sekirooox) | ⭐⭐⭐⭐ |
 
 ## 选课经验
 
