@@ -1,47 +1,41 @@
 ---
-description: 专业选修课程入口与现有课程评价概览
+description: 专业选修课程入口
 ---
 
 # 0x0C🧠专业选修
 
 > **内容性质：** 专业选修课程导读与个人经验
 >
-> **适用范围：** MayL 2024-2026 年修读阶段；当前培养方案与开课安排待核验
+> **适用范围：** 暨南大学计算机科学与技术（全英）专业，简称CST；大一阶段。
 >
-> **最后核验：** 2026-10-07（仅完成页面结构核对）
+> **最后核验：** 2026-10-07
 >
-> **贡献者：** MayL
+> **贡献者：** [H3Art-q](https://github.com/H3Art-q)，[sekirooox](https://github.com/sekirooox)
 >
-> **状态：** 可能过时
-
-> 本页不替代培养方案、教务系统或课程当期通知。课程性质、学分和开课学期请按个人所属培养方案核验。
-
-## 快速结论
-
-现有记录收录人工智能（全英）、高阶人工智能（全英）和计算机文献选读（全英）三门专业选修课程。不同课程分别采用期末考试或课程论文结课，考勤、课堂任务和考核安排存在差异，选课前应结合当期通知和个人学习目标判断。
 
 ## 课程入口
 
-- [人工智能（全英）](ren-gong-zhi-neng.md)
+- [编译构建（全英）](bian-yi-gou-jian-quan-ying.md)
 - [高阶人工智能（全英）](gao-jie-ren-gong-zhi-neng.md)
+- [机器学习（全英）](ji-qi-xue-xi-quan-ying.md)
+- [计算机视觉（全英）](ji-suan-ji-shi-jue-quan-ying.md)
+- [计算机体系结构（全英）](ji-suan-ji-ti-xi-jie-gou-quan-ying.md)
 - [计算机文献选读（全英）](ji-suan-ji-wen-xian-xuan-du.md)
+- [教育数据挖掘与分析（全英）](jiao-yu-shu-ju-wa-jue-yu-fen-xi-quan-ying.md)
+- [密码算法与协议（全英）](mi-ma-suan-fa-yu-xie-yi-quan-ying.md)
+- [面向对象方法学（全英）](mian-xiang-dui-xiang-fang-fa-xue-quan-ying.md)
+- [人工智能（全英）](ren-gong-zhi-neng.md)
+- [人机交互（全英）](ren-ji-jiao-hu-quan-ying.md)
+- [软件工程中的形式化方法（全英）](ruan-jian-gong-cheng-zhong-de-xing-shi-hua-fang-fa-quan-ying.md)
+- [数据仓库与数据挖掘（全英）](shu-ju-cang-ku-yu-shu-ju-wa-jue-quan-ying.md)
+- [数值计算基础（全英）](shu-zhi-ji-suan-ji-chu-quan-ying.md)
+- [数字图像处理（全英）](shu-zi-tu-xiang-chu-li-quan-ying.md)
+- [统计学方法入门（全英）](tong-ji-xue-fang-fa-ru-men-quan-ying.md)
+- [信息安全与管理（全英）](xin-xi-an-quan-yu-guan-li-quan-ying.md)
+- [信息检索（全英）](xin-xi-jian-suo-quan-ying.md)
+- [C++ 程序设计（全英）](c++-cheng-xu-she-ji-quan-ying.md)
+- [Java 程序设计（全英）](java-cheng-xu-she-ji-quan-ying.md)
 
-## 阶段规划建议
-
-- 对照个人培养方案和教务系统，确认专业选修学分要求与课程开设情况。
-- 人工智能（全英）包含课堂任务、期中测验和期末考试，需要为搜索、贝叶斯网络、马尔科夫链等内容安排复习时间。
-- 高阶人工智能（全英）和计算机文献选读（全英）均以课程论文结课，需要为文献阅读、综述写作和格式整理预留时间。
-- 教师、考勤和考核方式可能随学期变化，应以当期课程通知为准。
-
-## 个人体验与思考
-
-现有记录显示，三门课程的课堂组织和考核方式差异较大。人工智能（全英）侧重人工智能基础概念与期末考试；高阶人工智能（全英）通过课堂辩论和综述论文完成考核；计算机文献选读（全英）以学生课堂展示和课程论文为主。相关判断均来自 MayL 的个人修读经历。
-
-## 年份差异与待核验事项
-
-- 当前专业选修课程列表、课程学分、开课学期及毕业要求待按培养方案核验。
-- 各课程的教师、考勤、课堂任务、论文和考试安排均以当期通知为准。
-- 本目录目前只收录已有个人评价的课程，不代表完整的专业选修课程列表。
 
 ## 相关页面
 
