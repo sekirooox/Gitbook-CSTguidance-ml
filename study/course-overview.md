@@ -14,6 +14,12 @@ description: 按年级、目录结构、性质、主题和特征查找已有课�
 
 > 本页只提供交叉入口，完整评价保存在各课程主页面。课程性质、开课年级和培养方案可能变化，请以个人培养方案及教务系统为准。
 
+## 升学与发展延伸阅读
+
+- **方向总览：** [出路方向简述](../growth/chu-lu-fang-xiang-jian-shu/README.md)。
+- **国内升学：** [保研](../growth/chu-lu-fang-xiang-jian-shu/bao-yan/README.md)、[MayL 的保研经验贴](../growth/chu-lu-fang-xiang-jian-shu/bao-yan/MayL.md)、[考研](../growth/chu-lu-fang-xiang-jian-shu/kao-yan/README.md)。
+- **其他方向：** [考公](../growth/chu-lu-fang-xiang-jian-shu/kao-gong/README.md)、[留学](../growth/chu-lu-fang-xiang-jian-shu/liu-xue/README.md)。
+
 ## 按目录结构查找
 
 ### 0x08 大一课程

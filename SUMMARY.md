@@ -196,7 +196,12 @@
 ## 🚀 GROWTH
 
 * [0x11🚀发展与成长](navigation/development-and-growth.md)
-* [0x12🛤️出路方向简述](growth/chu-lu-fang-xiang-jian-shu.md)
+* [0x12🛤️出路方向简述](growth/chu-lu-fang-xiang-jian-shu/README.md)
+  * [保研](growth/chu-lu-fang-xiang-jian-shu/bao-yan/README.md)
+    * [MayL 的保研经验贴](growth/chu-lu-fang-xiang-jian-shu/bao-yan/MayL.md)
+  * [考研](growth/chu-lu-fang-xiang-jian-shu/kao-yan/README.md)
+  * [考公](growth/chu-lu-fang-xiang-jian-shu/kao-gong/README.md)
+  * [留学](growth/chu-lu-fang-xiang-jian-shu/liu-xue/README.md)
 
 ## 👍 TAIL
 
