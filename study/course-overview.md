@@ -116,6 +116,13 @@ description: 按年级、目录结构、性质、主题和特征查找已有课�
 - **页面明确记录课程项目或报告：** [软件工程](7.-da-er-ke-cheng/ruan-jian-gong-cheng-quan-ying.md)、[机器学习](10.-zhuan-ye-xuan-xiu/ji-qi-xue-xi-quan-ying.md)、[计算机视觉](10.-zhuan-ye-xuan-xiu/ji-suan-ji-shi-jue-quan-ying.md)、[教育数据挖掘与分析](10.-zhuan-ye-xuan-xiu/jiao-yu-shu-ju-wa-jue-yu-fen-xi-quan-ying.md)、[计算机体系结构](10.-zhuan-ye-xuan-xiu/ji-suan-ji-ti-xi-jie-gou-quan-ying.md)。具体要求可能变化。
 - **作业量较大、包含实验等其他特征：** 尚未完成跨页面一致核验，暂不建立结论性列表。
 
+## 个人成长
+* [保研](../growth/chu-lu-fang-xiang-jian-shu/bao-yan/README.md)   
+  * [MayL 的保研经验贴](../growth/chu-lu-fang-xiang-jian-shu/bao-yan/MayL.md)
+* [竞赛](../growth/jing-sai/README.md)
+  * [MayL 的数学建模比赛经验](../growth/jing-sai/MayL.md)
+* [科研](../growth/ke-yan/README.md)
+  * [MayL 的科研选择导师建议](../growth/ke-yan/MayL.md)
 ## 维护说明
 
 - 新增课程页后，请在仓库的 `SUMMARY.md` 和本页对应的目录结构中各添加一次链接。

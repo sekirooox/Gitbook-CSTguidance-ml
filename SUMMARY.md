@@ -202,14 +202,17 @@
   * [考研](growth/chu-lu-fang-xiang-jian-shu/kao-yan/README.md)
   * [考公](growth/chu-lu-fang-xiang-jian-shu/kao-gong/README.md)
   * [留学](growth/chu-lu-fang-xiang-jian-shu/liu-xue/README.md)
-
+* [0x13🫤竞赛](growth/jing-sai/README.md)
+  * [MayL 的数学建模比赛经验](growth/jing-sai/MayL.md)
+* [0x14🕵️科研](growth/ke-yan/README.md)
+  * [MayL 的科研选择导师建议](growth/ke-yan/MayL.md)
 ## 👍 TAIL
 
 
-* [0x13💡经验专题](navigation/experience-topics.md)
-* [0x14💔恋爱相关](tail/6.-lian-ai-xiang-guan.md)
-* [0x15🎁尾巴](tail/7.-wei-ba.md)
+* [0x15💡经验专题](navigation/experience-topics.md)
+* [0x16💔恋爱相关](tail/6.-lian-ai-xiang-guan.md)
+* [0x17🎁尾巴](tail/7.-wei-ba.md)
 
 ## 🥰 CONTRIBUTION
 
-* [0x16🤝参与贡献](navigation/contributing.md)
+* [0x18🤝参与贡献](navigation/contributing.md)
