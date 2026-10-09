@@ -32,4 +32,4 @@ description: 汇总 Z.J Wu、S Long 讲授《计算机导论(全英)》期间的
 | 贡献者 | 贡献内容 |
 | --- | --- |
 | [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 Z.J Wu 条目的原始课程记录与个人评价。 |
-| [![sekirooox 的 GitHub 头像](https://github.com/sekirooox.png?size=80)](https://github.com/sekirooox/Gitbook-CSTguidance-ml) | 感谢 [sekirooox](https://github.com/sekirooox) 提供 S Long 条目的原始课程记录与个人评价。 |
+| [![sekirooox 的 GitHub 头像](https://github.com/sekirooox.png?size=80)](https://github.com/sekirooox/Gitbook-CSTguidance-ml) | 感谢 [MayL](https://github.com/sekirooox) 提供 S Long 条目的原始课程记录与个人评价。 |

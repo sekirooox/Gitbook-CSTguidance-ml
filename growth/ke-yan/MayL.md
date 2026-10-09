@@ -10,7 +10,7 @@ description: 科研选导的经验贴
 >
 > **最后核验：** 2026-10-08
 >
-> **作者：** [sekirooox](https://github.com/sekirooox)
+> **作者：** [MayL](https://github.com/sekirooox)
 
 ## 前言
 >科研是本科期间最能拉开与其他同学差距的手段。

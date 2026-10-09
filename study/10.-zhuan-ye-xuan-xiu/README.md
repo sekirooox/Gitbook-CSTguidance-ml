@@ -10,7 +10,7 @@ description: 专业选修课程入口
 >
 > **最后核验：** 2026-10-07
 >
-> **贡献者：** [H3Art-q](https://github.com/H3Art-q)，[sekirooox](https://github.com/sekirooox)
+> **贡献者：** [H3Art-q](https://github.com/H3Art-q)，[MayL](https://github.com/sekirooox)
 >
 
 ## 课程入口

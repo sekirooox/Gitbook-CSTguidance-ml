@@ -10,7 +10,7 @@ description: 保研只是升学的手段。
 >
 > **最后核验：** 2026-10-07
 >
-> **作者：** [sekirooox](https://github.com/sekirooox)
+> **作者：** [MayL](https://github.com/sekirooox)
 
 
 ## 保研是什么

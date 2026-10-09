@@ -10,7 +10,7 @@ description: 科研导论
 >
 > **最后核验：** 2026-10-08
 >
-> **作者：** [sekirooox](https://github.com/sekirooox)
+> **作者：** [MayL](https://github.com/sekirooox)
 
 
 # 科研入门

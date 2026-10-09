@@ -10,7 +10,7 @@ description: 2026年 (27届毕业)保研er的经历自述
 >
 > **最后核验：** 2026-10-08
 >
-> **作者：** [sekirooox](https://github.com/sekirooox)
+> **作者：** [MayL](https://github.com/sekirooox)
 
 
 ## 背景

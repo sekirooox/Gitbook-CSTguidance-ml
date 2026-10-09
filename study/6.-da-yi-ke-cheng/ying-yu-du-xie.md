@@ -37,4 +37,4 @@ description: 汇总 Frank、Adam、Denise 讲授《英语读写Ⅰ&Ⅱ》期间�
 | --- | --- |
 | [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 Frank 条目的原始课程记录与个人评价。 |
 | [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 Adam 条目的原始课程记录与个人评价。 |
-| [![sekirooox 的 GitHub 头像](https://github.com/sekirooox.png?size=80)](https://github.com/sekirooox/Gitbook-CSTguidance-ml) | 感谢 [sekirooox](https://github.com/sekirooox) 提供 Denise 条目的原始课程记录与个人评价。 |
+| [![sekirooox 的 GitHub 头像](https://github.com/sekirooox.png?size=80)](https://github.com/sekirooox/Gitbook-CSTguidance-ml) | 感谢 [MayL](https://github.com/sekirooox) 提供 Denise 条目的原始课程记录与个人评价。 |
